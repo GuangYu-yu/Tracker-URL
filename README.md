@@ -2,6 +2,10 @@
 
 整合了多个现已公开的Tracker URL链接，可以添加到BT下载工具中，在一定程度上实现BT下载加速。
 
+```
+https://ghp.ci/https://raw.githubusercontent.com/GuangYu-yu/Tracker-URL/refs/heads/main/all.txt
+```
+
 # 链接
 
 ```
