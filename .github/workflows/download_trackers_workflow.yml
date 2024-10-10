@@ -6,7 +6,7 @@ on:
   workflow_dispatch:  # 允许手动触发
 
 jobs:
-  下载和处理:
+  download-and-process:
     runs-on: ubuntu-latest
 
     steps:
