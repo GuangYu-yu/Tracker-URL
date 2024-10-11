@@ -889,7 +889,6 @@ https://tracker.jiesen.life:8443/announce
 https://tracker.kawaii.id/announce
 https://tracker.kitaujisub.site/announce.php?authkey=213|10003|j46n2q
 https://tracker.kitaujisub.site/announce.php?authkey=215|10003|j46n2q
-https://tracker.kmzs123.cn:443/announce
 https://tracker.kuroy.me/announce
 https://tracker.kuroy.me:443/announce
 https://tracker.lelux.fi/announce
@@ -1210,7 +1209,6 @@ udp://open.stealth.si:80/announce
 udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
 udp://open.u-p.pw:6969/announce
-udp://open.xxtor.com:3074/announce
 udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
