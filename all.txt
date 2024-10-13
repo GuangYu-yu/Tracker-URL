@@ -537,6 +537,7 @@ http://tracker.anirena.com:80/announce
 http://tracker.anirena.com:80/b16a15d9a238d1f59178d3614b857290/announce
 http://tracker.baka-sub.cf/announce
 http://tracker.baka-sub.cf:80/announce
+http://tracker.baltracker.net:3390/announce
 http://tracker.baravik.org:6970/announce
 http://tracker.bittor.pw:1337/announce
 http://tracker.bittorrent.am/announce
@@ -1040,7 +1041,6 @@ udp://213.163.67.56:1337/announce
 udp://217.30.10.77:6969/announce
 udp://23.137.251.45:6969/announce
 udp://23.153.248.83:6969/announce
-udp://23.157.120.14:6969/announce
 udp://23.163.56.66:6969/announce
 udp://23.168.232.9:1337/announce
 udp://27.151.84.136:2710/announce
@@ -1094,6 +1094,7 @@ udp://89.36.216.8:6969/announce
 udp://89.47.160.50:6969/announce
 udp://9.rarbg.com:2710/announce
 udp://9.rarbg.me:2780/announce
+udp://9.rarbg.me:2820/announce
 udp://9.rarbg.to:2730/announce
 udp://91.211.5.21:6969/announce
 udp://91.216.110.53:451/announce
@@ -1144,7 +1145,6 @@ udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 udp://cutscloud.duckdns.org:6969/announce
 udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
-udp://denis.stalker.upeer.me:1337/announce
 udp://devops.gay:6969/announce
 udp://dht.bt251.com:6969/announce
 udp://download.nerocloud.me:6969/announce
@@ -1263,6 +1263,7 @@ udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:8070/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://trackarr.org:6969/announce
+udp://tracker-de.ololosh.space:6969/announce
 udp://tracker-udp.anirena.com:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x.tf:6969/announce
@@ -1281,7 +1282,6 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cloaka.xyz:1337/announce
-udp://tracker.coppersurfer.tk:1337/announce
 udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://tracker.cyberia.is:6969/announce
@@ -1330,6 +1330,7 @@ udp://tracker.piratepublic.com:1337/announce
 udp://tracker.pomf.se:80/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
+udp://tracker.sbsub.com:2710/announce
 udp://tracker.sktorrent.net:6969
 udp://tracker.sktorrent.net:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
@@ -1338,7 +1339,6 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.tcp.exchange:6969/announce
-udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
