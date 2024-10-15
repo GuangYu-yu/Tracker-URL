@@ -426,7 +426,6 @@ http://opentracker.xyz/announce
 http://opentracker.xyz:80/announce
 http://opentrackr.org:1337/announce
 http://p2p.0g.cx:6969/announce
-http://p2p.azu.red:80/announce
 http://p4p.arenabg.ch:1337/announce
 http://p4p.arenabg.com:1337/announce
 http://parag.rs:6969/announce
@@ -802,6 +801,7 @@ https://opentracker.i2p.rocks/announce
 https://opentracker.i2p.rocks:443/announce
 https://opentracker.xyz/announce
 https://opentracker.xyz:443/announce
+https://p2p.azu.red:443/announce
 https://pybittrack.retiolus.net:443/announce
 https://retracker.x2k.ru:443/announce
 https://seeders-paradise.org/announce
@@ -1262,6 +1262,7 @@ udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://tk2.trackerservers.com:8080/announce
+udp://tk2v6.trackerservers.com:8080/announce
 udp://torrent.gresille.org:80/announce
 udp://torrentclub.space:6969/announce
 udp://torrents.artixlinux.org:6969/announce
