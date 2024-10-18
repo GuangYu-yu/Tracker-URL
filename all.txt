@@ -1323,7 +1323,6 @@ udp://tracker.jamesthebard.net:6969/announce
 udp://tracker.justseed.it:1337/announce
 udp://tracker.kicks-ass.net:80/announce
 udp://tracker.kmzs123.cf:17272/announce
-udp://tracker.kmzs123.cn:17272/announce
 udp://tracker.kuroy.me:5944/announce
 udp://tracker.leechers-paradise.org:6969/announce
 udp://tracker.lelux.fi:6969/announce
