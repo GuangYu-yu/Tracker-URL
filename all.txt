@@ -44,7 +44,6 @@ http://157.7.202.64:8080/announce
 http://157.90.169.123/announce
 http://158.101.137.177:6969/announce
 http://158.69.146.212:7777/announce
-http://159.148.57.222:6969/announce
 http://159.69.65.157:6969/announce
 http://160.251.78.190:6969/announce
 http://163.172.209.40/announce
@@ -124,7 +123,6 @@ http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
-http://34.89.51.235:80/announce
 http://34.94.213.23/announce
 http://34.94.213.23:11451/announce
 http://34.94.213.23:2710/announce
@@ -146,6 +144,7 @@ http://45.154.253.6:80/announce
 http://45.154.253.7/announce
 http://45.154.253.8/announce
 http://45.154.253.9/announce
+http://45.154.96.35:6969/announce
 http://45.154.98.215:6969/announce
 http://45.63.111.135:2710/announce
 http://45.63.111.135:6961/announce
@@ -983,15 +982,12 @@ udp://11.rarbg.com:80/announce
 udp://114.55.113.60:6969/announce
 udp://119.28.71.45:8080/announce
 udp://120.36.84.3:2710/announce
-udp://120.36.84.3:6969/announce
 udp://121.199.16.229:6969/announce
-udp://125.227.79.123:80/announce
 udp://128.199.70.66:5944/announce
 udp://135.125.106.92:6969/announce
 udp://135.125.202.143:6969/announce
 udp://138.124.183.78:6969/announce
 udp://142.132.183.104:6969/announce
-udp://143.198.64.177:6969/announce
 udp://144.91.88.22:6969/announce
 udp://148.251.53.72:6969/announce
 udp://15.204.56.171:6969/announce
@@ -1041,12 +1037,11 @@ udp://211.75.210.220:6969/announce
 udp://211.75.29.254:6969/announce
 udp://213.163.67.56:1337/announce
 udp://217.30.10.77:6969/announce
-udp://23.134.89.9:1337/announce
 udp://23.137.251.45:6969/announce
+udp://23.140.248.9:1337/announce
 udp://23.153.248.83:6969/announce
 udp://23.157.120.14:6969/announce
 udp://23.163.56.66:6969/announce
-udp://34.89.51.235:1337/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 udp://37.19.5.155:2710/announce
@@ -1088,11 +1083,9 @@ udp://83.102.180.21:80/announce
 udp://83.146.104.232:6969/announce
 udp://83.6.225.61:6969/announce
 udp://85.17.19.180:80/announce
-udp://86.57.161.157:6969/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
 udp://89.110.76.229:6969/announce
-udp://89.234.156.205:451/announce
 udp://89.234.156.205:80/announce
 udp://89.36.216.8:6969/announce
 udp://89.47.160.50:6969/announce
@@ -1101,6 +1094,7 @@ udp://9.rarbg.me:2770/announce
 udp://9.rarbg.me:2780/announce
 udp://9.rarbg.to:2730/announce
 udp://91.211.5.21:6969/announce
+udp://91.216.110.53:451/announce
 udp://91.218.230.81:6969/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
@@ -1175,14 +1169,12 @@ udp://ipv4.rer.lol:2710/announce
 udp://ipv4.tracker.harry.lu/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv6.tracker.harry.lu/announce
-udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
 udp://jutone.com:6969/announce
 udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
 udp://laze.cc:6969/announce
 udp://leefafa.tk:6969/announce
-udp://leet-tracker.moe:1337/announce
 udp://ln.mtahost.co:6969/announce
 udp://mail.artixlinux.org:6969/announce
 udp://mail.segso.net:6969/announce
@@ -1297,7 +1289,6 @@ udp://tracker.deadorbit.nl:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.doko.moe:6969/announce
-udp://tracker.dump.cl:6969/announce
 udp://tracker.dutchtracking.com:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.edkj.club:6969/announce
@@ -1340,6 +1331,7 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.tcp.exchange:6969/announce
+udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
@@ -1388,7 +1380,6 @@ udp://zecircle.xyz:6969/announce
 udp://zephir.monocul.us:6969/announce
 udp://zer0day.ch:1337/announce
 udp://zer0day.to:1337/announce
-ws://tracker.files.fm:7072/announce
 wss://qot.abiir.top:443/announce
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 wss://tracker.btorrent.xyz
