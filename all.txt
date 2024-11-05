@@ -1135,7 +1135,6 @@ udp://74.82.52.209:6969/announce
 udp://78.153.130.109:6969/announce
 udp://79.116.148.61:1234/announce
 udp://7p41a8967.wicp.vip:22222/announce
-udp://82.156.24.219:6969/announce
 udp://82.65.115.10:6969/announce
 udp://83.102.180.21:80/announce
 udp://83.6.231.164:6969/announce
@@ -1147,8 +1146,8 @@ udp://89.234.156.205:80/announce
 udp://89.36.216.8:6969/announce
 udp://89.47.160.50:6969/announce
 udp://9.rarbg.com:2710/announce
+udp://9.rarbg.me:2770/announce
 udp://9.rarbg.me:2780/announce
-udp://9.rarbg.me:2910/announce
 udp://9.rarbg.to:2730/announce
 udp://91.211.5.21:6969/announce
 udp://91.216.110.53:451/announce
@@ -1303,7 +1302,6 @@ udp://ssb14.nohost.me:6969/announce
 udp://stargrave.org:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://su-data.com:6969/announce
-udp://sugoi.pomf.se:80/announce
 udp://t.overflow.biz:6969/announce
 udp://t.zerg.pw:6969/announce
 udp://tamas3.ynh.fr:6969/announce
