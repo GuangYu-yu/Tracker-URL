@@ -24,7 +24,6 @@ http://116.9.207.198:6969/announce
 http://116.9.207.226:6969/announce
 http://119.28.71.45:8080/announce
 http://125.227.35.196:6969/announce
-http://125.227.79.123:6969/announce
 http://125.227.79.123:80/announce
 http://128.199.70.66:5944/announce
 http://129.146.193.240:6699/announce
@@ -41,7 +40,6 @@ http://147job.com:6969/announce
 http://148.252.75.241:6969/announce
 http://15.204.57.168:6969/announce
 http://151.115.49.115:1337/announce
-http://152.67.8.255:6969/announce
 http://155.248.200.105/announce
 http://156.234.201.18/announce
 http://156.234.201.18:80/announce
@@ -92,6 +90,7 @@ http://185.230.4.150:1337/announce
 http://185.232.169.109/announce
 http://185.5.97.139:8089/announce
 http://185.70.187.79:6969/announce
+http://186.10.170.97:1337/announce
 http://187.57.14.62:6969/announce
 http://188.165.253.109:1337/announce
 http://189.0.196.51:6969/announce
@@ -117,6 +116,7 @@ http://210.244.71.25:6969/announce
 http://210.244.71.26:6969/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
+http://211.23.142.127:6969/announce
 http://211.75.29.254:6969/announce
 http://212.6.3.67/announce
 http://212.60.5.147:2710/announce
@@ -128,23 +128,23 @@ http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
-http://34.89.91.10:11450/announce
-http://34.89.91.10:2710/announce
+http://34.89.91.10:443/announce
+http://34.89.91.10:6960/announce
 http://34.89.91.10:6969/announce
 http://34.89.91.10:80/announce
+http://34.89.91.10:80/announce.php
 http://34.94.213.23/announce
 http://34.94.213.23:11451/announce
 http://34.94.213.23:2710/announce
-http://34.94.76.146:2701/announce
+http://34.94.76.146:11450/announce
+http://34.94.76.146:1337/announce
 http://34.94.76.146:2710/announce
-http://34.94.76.146:443/announce
-http://34.94.76.146:6960/announce
 http://34.94.76.146:6969/announce
 http://34.94.76.146:80/announce
 http://34.94.76.146:80/announce.php
 http://35.227.12.84/announce
 http://35.227.12.84:2710/announce
-http://35.227.59.57:1337/announce
+http://35.227.59.57:2701/announce
 http://35.227.59.57:2710/announce
 http://35.227.59.57:6969/announce
 http://35.227.59.57:80/announce
@@ -1016,7 +1016,6 @@ udp://11.rarbg.com:80/announce
 udp://114.55.113.60:6969/announce
 udp://119.28.71.45:8080/announce
 udp://121.199.16.229:6969/announce
-udp://125.227.79.123:6969/announce
 udp://125.227.79.123:80/announce
 udp://128.199.70.66:5944/announce
 udp://130.61.158.165:6969/announce
@@ -1044,7 +1043,6 @@ udp://176.123.1.180:6969/announce
 udp://176.31.250.174:6969/announce
 udp://176.56.4.199:6969/announce
 udp://176.99.7.59:6969/announce
-udp://178.156.140.15:53/announce
 udp://178.170.48.154:1337/announce
 udp://178.33.73.26:2710/announce
 udp://179.175.247.60:6969/announce
@@ -1054,7 +1052,6 @@ udp://185.102.219.163:6969/announce
 udp://185.181.60.155:80/announce
 udp://185.181.60.67:80/announce
 udp://185.216.179.62:25/announce
-udp://185.225.68.26:6969/announce
 udp://185.230.4.150:1337/announce
 udp://185.243.218.213:80/announce
 udp://185.44.82.25:1337/announce
@@ -1065,7 +1062,6 @@ udp://188.165.253.109:1337/announce
 udp://191.101.229.236:1337/announce
 udp://192.95.46.115:6969/announce
 udp://193.37.214.12:6969/announce
-udp://193.42.111.57:9337/announce
 udp://193.53.126.6:6961/announce
 udp://194.106.216.222:80/announce
 udp://194.38.21.77:6969/announce
@@ -1080,19 +1076,22 @@ udp://207.244.226.120:6969/announce
 udp://208.67.16.113:8000/announce
 udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
+udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
+udp://211.23.142.127:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.60.5.147:2710/announce
 udp://213.163.67.56:1337/announce
 udp://217.30.10.77:6969/announce
+udp://23.134.88.9:1337/announce
 udp://23.137.251.45:6969/announce
-udp://23.140.248.9:1337/announce
 udp://23.153.248.83:6969/announce
+udp://23.157.120.14:6969/announce
 udp://23.163.56.66:6969/announce
 udp://27.155.140.80:2710/announce
 udp://34.89.91.10:6969/announce
+udp://34.94.76.146:1337/announce
 udp://34.94.76.146:6969/announce
-udp://35.227.59.57:1337/announce
 udp://35.227.59.57:6969/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
@@ -1118,6 +1117,7 @@ udp://51.15.26.25:6969/announce
 udp://51.15.3.74:6969/announce
 udp://51.158.144.42:6969/announce
 udp://51.159.54.68:6666/announce
+udp://51.159.89.93:6969/announce
 udp://51.222.82.36:6969/announce
 udp://51.254.244.161:6969/announce
 udp://51.68.174.87:6969/announce
@@ -1143,6 +1143,7 @@ udp://85.17.19.180:80/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
 udp://89.110.76.229:6969/announce
+udp://89.234.156.205:451/announce
 udp://89.234.156.205:80/announce
 udp://89.36.216.8:6969/announce
 udp://89.47.160.50:6969/announce
@@ -1151,7 +1152,6 @@ udp://9.rarbg.me:2770/announce
 udp://9.rarbg.me:2780/announce
 udp://9.rarbg.to:2730/announce
 udp://91.211.5.21:6969/announce
-udp://91.216.110.53:451/announce
 udp://91.218.230.81:6969/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
@@ -1220,7 +1220,6 @@ udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
-udp://freedomalternative.com:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
 udp://inferno.demonoid.pw:3418/announce
@@ -1394,6 +1393,7 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.tcp.exchange:6969/announce
+udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
@@ -1411,7 +1411,6 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
-udp://tracker1.myporn.club:9337/announce
 udp://tracker2.christianbro.pw:6969/announce
 udp://tracker2.dler.com:80/announce
 udp://tracker2.dler.org:80/announce
