@@ -232,7 +232,6 @@ http://83.6.220.156:6969/announce
 http://83.6.223.8:6969/announce
 http://83.6.226.63:6969/announce
 http://83.6.227.65:6969/announce
-http://83.6.231.164:6969/announce
 http://83.6.231.40:6969/announce
 http://83.6.232.23:6969/announce
 http://83.6.234.75:6969/announce
@@ -421,6 +420,7 @@ http://mixfiend.com:80/announce.php
 http://mkfs.ru/announce
 http://montreal.nyap2p.com:8080/announce
 http://movies.zsw.ca:6969/announce
+http://music-torrent.net:2710/announce
 http://mvgforumtracker.mvgroup.org/tracker.php/announce
 http://mvgforumtracker.mvgroup.org/tracker.php:80/announce
 http://mvgforumtracker.mvgroup.org:80/tracker.php/announce
@@ -760,6 +760,7 @@ http://www.arabp2p.net:2052/f5a1e35785c9f3885fd54f34b6e262b8/announce
 http://www.bit-hdtv.com:2710/announce
 http://www.bitseduce.com/announce.php
 http://www.biztorrents.com/announce.php
+http://www.blackcats-games.net:2228/announce
 http://www.chouchou.club:8080/announce
 http://www.genesis-sp.org:2710/announce
 http://www.legittorrents.info/announce.php
@@ -772,6 +773,7 @@ http://www.nartlof.com.br:6969/announce
 http://www.peckservers.com:9000/announce
 http://www.shnflac.net/announce.php
 http://www.siambt.com/announce.php
+http://www.theoccult.bz:3010/announce
 http://www.theplace.bz:2910/announce
 http://www.thetradersden.org/forums/tracker/announce.php
 http://www.thetradersden.org/forums/tracker:80/announce.php
@@ -1087,10 +1089,8 @@ udp://211.75.29.254:6969/announce
 udp://212.60.5.203:2710/announce
 udp://213.163.67.56:1337/announce
 udp://217.30.10.77:6969/announce
-udp://23.134.88.9:1337/announce
 udp://23.137.251.45:6969/announce
 udp://23.153.248.83:6969/announce
-udp://23.157.120.14:6969/announce
 udp://23.163.56.66:6969/announce
 udp://23.168.232.9:1337/announce
 udp://34.89.91.10:1337/announce
@@ -1108,7 +1108,6 @@ udp://46.138.242.240:6969/announce
 udp://46.4.109.148:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
 udp://49.13.133.10:6969/announce
-udp://5.102.159.190:6969/announce
 udp://5.161.187.83:53/announce
 udp://5.181.156.41:6969/announce
 udp://5.181.188.172:1337/announce
@@ -1152,7 +1151,7 @@ udp://89.234.156.205:80/announce
 udp://89.36.216.8:6969/announce
 udp://9.rarbg.com:2710/announce
 udp://9.rarbg.me:2780/announce
-udp://9.rarbg.me:2820/announce
+udp://9.rarbg.me:2800/announce
 udp://9.rarbg.to:2730/announce
 udp://91.211.5.21:6969/announce
 udp://91.218.230.81:6969/announce
@@ -1324,7 +1323,6 @@ udp://torrentclub.space:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:8070/announce
-udp://tr3.ysagin.top:2715/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://trackarr.org:6969/announce
 udp://tracker-udp.anirena.com:80/announce
@@ -1345,6 +1343,7 @@ udp://tracker.breizh.pm:6969/announce
 udp://tracker.btsync.gq:233/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
+udp://tracker.coppersurfer.tk:1337/announce
 udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://tracker.cyberia.is:6969/announce
