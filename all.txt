@@ -23,7 +23,6 @@ http://116.9.207.198:6969/announce
 http://116.9.207.226:6969/announce
 http://119.28.71.45:8080/announce
 http://125.227.35.196:6969/announce
-http://125.227.79.123:6969/announce
 http://125.227.79.123:80/announce
 http://128.199.70.66:5944/announce
 http://129.146.193.240:6699/announce
@@ -115,6 +114,7 @@ http://210.244.71.25:6969/announce
 http://210.244.71.26:6969/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
+http://211.23.142.127:6969/announce
 http://211.75.210.220:6969/announce
 http://211.75.29.254:6969/announce
 http://212.6.3.67/announce
@@ -127,24 +127,24 @@ http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
-http://34.89.91.10:11450/announce
 http://34.89.91.10:1337/announce
-http://34.89.91.10:2701/announce
 http://34.89.91.10:2710/announce
-http://34.89.91.10:6960/announce
 http://34.89.91.10:6969/announce
 http://34.89.91.10:80/announce
 http://34.89.91.10:80/announce.php
 http://34.94.213.23/announce
 http://34.94.213.23:11451/announce
 http://34.94.213.23:2710/announce
+http://34.94.76.146:2701/announce
 http://34.94.76.146:2710/announce
+http://34.94.76.146:443/announce
+http://34.94.76.146:6960/announce
 http://34.94.76.146:6969/announce
 http://34.94.76.146:80/announce
+http://34.94.76.146:80/announce.php
 http://35.227.12.84/announce
 http://35.227.12.84:2710/announce
-http://35.227.59.57:2710/announce
-http://35.227.59.57:443/announce
+http://35.227.59.57:11450/announce
 http://35.227.59.57:6969/announce
 http://35.227.59.57:80/announce
 http://37.19.5.139:6969/announce
@@ -217,6 +217,7 @@ http://80.246.243.18:6969/announce
 http://81.200.2.231/announce
 http://83.31.190.19:6969/announce
 http://83.31.191.97:6969/announce
+http://83.31.194.79:6969/announce
 http://83.31.199.157:6969/announce
 http://83.31.209.3:6969/announce
 http://83.31.211.243:6969/announce
@@ -519,6 +520,7 @@ http://thetracker.org/announce
 http://thetracker.org:80/announce
 http://thitgaluoc.dynu.net:6969/announce
 http://tk.greedland.net/announce
+http://tk.greedland.net:80/announce
 http://tk2.greedland.net/announce
 http://torrent-team.net/announce.php
 http://torrent-team.net:80/announce.php
@@ -832,7 +834,6 @@ https://opentracker.i2p.rocks/announce
 https://opentracker.i2p.rocks:443/announce
 https://opentracker.xyz/announce
 https://opentracker.xyz:443/announce
-https://p2p.azu.red:443/announce
 https://pybittrack.retiolus.net:443/announce
 https://retracker.x2k.ru:443/announce
 https://seeders-paradise.org/announce
@@ -1019,7 +1020,7 @@ udp://114.55.113.60:6969/announce
 udp://119.28.71.45:8080/announce
 udp://120.36.85.245:2710/announce
 udp://121.199.16.229:6969/announce
-udp://125.227.79.123:6969/announce
+udp://125.227.79.123:80/announce
 udp://128.199.70.66:5944/announce
 udp://130.61.158.165:6969/announce
 udp://135.125.106.92:6969/announce
@@ -1080,6 +1081,7 @@ udp://208.67.16.113:8000/announce
 udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.25:6969/announce
+udp://211.23.142.127:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.60.5.203:2710/announce
 udp://213.163.67.56:1337/announce
@@ -1089,10 +1091,10 @@ udp://23.137.251.45:6969/announce
 udp://23.153.248.83:6969/announce
 udp://23.157.120.14:6969/announce
 udp://23.163.56.66:6969/announce
+udp://23.168.232.9:1337/announce
 udp://34.89.91.10:1337/announce
 udp://34.89.91.10:6969/announce
 udp://34.94.76.146:6969/announce
-udp://35.227.59.57:1337/announce
 udp://35.227.59.57:6969/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
@@ -1102,7 +1104,6 @@ udp://37.59.48.81:6969/announce
 udp://45.154.96.35:6969/announce
 udp://45.9.60.30:6969/announce
 udp://46.138.242.240:6969/announce
-udp://46.231.241.43:6969/announce
 udp://46.4.109.148:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
 udp://49.13.133.10:6969/announce
@@ -1139,7 +1140,7 @@ udp://7p41a8967.wicp.vip:22222/announce
 udp://82.65.115.10:6969/announce
 udp://83.102.180.21:80/announce
 udp://83.146.81.79:6969/announce
-udp://83.6.231.164:6969/announce
+udp://83.31.194.79:6969/announce
 udp://85.17.19.180:80/announce
 udp://86.57.161.157:6969/announce
 udp://88.80.28.7:6969/announce
@@ -1193,7 +1194,6 @@ udp://bt2.archive.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://buddyfly.top:6969/announce
 udp://camera.lei001.com:6969/announce
-udp://canardscitrons.nohost.me:6969/announce
 udp://carr.codes:6969/announce
 udp://chouchou.top:8080/announce
 udp://concen.org:6969/announce
@@ -1263,6 +1263,7 @@ udp://open.stealth.si:80/announce
 udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
 udp://open.u-p.pw:6969/announce
+udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
 udp://opentrackr.org:1337/announce
@@ -1395,6 +1396,7 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.tcp.exchange:6969/announce
+udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
