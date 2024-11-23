@@ -1124,7 +1124,6 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://7.rarbg.me:2710/announce
 udp://74.82.52.209:6969/announce
 udp://79.117.113.253:1234/announce
-udp://7p41a8967.wicp.vip:22222/announce
 udp://82.65.115.10:6969/announce
 udp://83.102.180.21:80/announce
 udp://83.146.81.79:6969/announce
