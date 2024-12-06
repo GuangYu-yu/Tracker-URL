@@ -889,6 +889,7 @@ https://tracker.cloudit.top:443/announce
 https://tracker.crawfish.cf/announce
 https://tracker.cyber-hub.net/announce
 https://tracker.cyber-hub.net:443/announce
+https://tracker.dev-null.rocks:443/announce
 https://tracker.dmhy.pw/announce
 https://tracker.dmhy.pw:443/announce
 https://tracker.dnlab.net/announce
@@ -1379,6 +1380,7 @@ udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vds.nz:6969/announce
 udp://tracker.yangxiaoguozi.cn:6969/announce
 udp://tracker.yoshi210.com:6969/announce
+udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
