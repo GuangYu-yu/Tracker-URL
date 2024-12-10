@@ -884,7 +884,6 @@ https://tracker.cloudit.top:443/announce
 https://tracker.crawfish.cf/announce
 https://tracker.cyber-hub.net/announce
 https://tracker.cyber-hub.net:443/announce
-https://tracker.dev-null.rocks:443/announce
 https://tracker.dmhy.pw/announce
 https://tracker.dmhy.pw:443/announce
 https://tracker.dnlab.net/announce
