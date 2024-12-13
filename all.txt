@@ -518,6 +518,7 @@ http://torrent.nwps.ws:80/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
 http://torrent.unix-ag.uni-kl.de:80/announce
+http://torrents-nn.cn:2710/announce
 http://torrents.hikarinokiseki.com:6969/announce
 http://torrents.linuxmint.com/announce.php
 http://torrents.linuxmint.com:80/announce.php
@@ -684,7 +685,6 @@ http://tracker.trackerfix.com/announce
 http://tracker.trackerfix.com:80/announce
 http://tracker.trancetraffic.com/announce.php
 http://tracker.trancetraffic.com:80/announce.php
-http://tracker.tricitytorrents.com:2710/announce
 http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.vanitycore.co:6969/announce
 http://tracker.vraphim.com:6969/announce
@@ -1167,6 +1167,7 @@ udp://concen.org:6969/announce
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 udp://cutscloud.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
+udp://denis.stalker.upeer.me:1337/announce
 udp://devops.gay:6969/announce
 udp://dht.bt251.com:6969/announce
 udp://download.nerocloud.me:6969/announce
