@@ -369,6 +369,7 @@ http://grifon.info/announce
 http://grifon.info:80/announce
 http://h4.trakx.nibba.trade/announce
 http://h4.trakx.nibba.trade:80/announce
+http://hdreactor.org:2710/announce
 http://highteahop.top:6960/announce
 http://home.kray.pw:6969/announce
 http://home.yxgz.club:6969/announce
@@ -410,6 +411,7 @@ http://mixfiend.com:80/announce.php
 http://mkfs.ru/announce
 http://montreal.nyap2p.com:8080/announce
 http://movies.zsw.ca:6969/announce
+http://music-torrent.net:2710/announce
 http://mvgforumtracker.mvgroup.org/tracker.php/announce
 http://mvgforumtracker.mvgroup.org/tracker.php:80/announce
 http://mvgforumtracker.mvgroup.org:80/tracker.php/announce
@@ -689,6 +691,7 @@ http://tracker.trackerfix.com/announce
 http://tracker.trackerfix.com:80/announce
 http://tracker.trancetraffic.com/announce.php
 http://tracker.trancetraffic.com:80/announce.php
+http://tracker.tricitytorrents.com:2710/announce
 http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.vanitycore.co:6969/announce
 http://tracker.vraphim.com:6969/announce
@@ -746,6 +749,7 @@ http://www.arabp2p.net:2052/f5a1e35785c9f3885fd54f34b6e262b8/announce
 http://www.bit-hdtv.com:2710/announce
 http://www.bitseduce.com/announce.php
 http://www.biztorrents.com/announce.php
+http://www.blackcats-games.net:2228/announce
 http://www.chouchou.club:8080/announce
 http://www.genesis-sp.org:2710/announce
 http://www.legittorrents.info/announce.php
@@ -1235,7 +1239,6 @@ udp://open.stealth.si:80/announce
 udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
 udp://open.u-p.pw:6969/announce
-udp://openbittorrent.com:80/announce
 udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
@@ -1276,7 +1279,6 @@ udp://ssb14.nohost.me:6969/announce
 udp://stargrave.org:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://su-data.com:6969/announce
-udp://sugoi.pomf.se:80/announce
 udp://t.overflow.biz:6969/announce
 udp://t.zerg.pw:6969/announce
 udp://tamas3.ynh.fr:6969/announce
@@ -1315,8 +1317,8 @@ udp://tracker.breizh.pm:6969/announce
 udp://tracker.btsync.gq:233/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
+udp://tracker.coppersurfer.tk:1337/announce
 udp://tracker.coppersurfer.tk:6969/announce
-udp://tracker.coppersurfer.tk:80/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.cypherpunks.ru:6969/announce
@@ -1375,7 +1377,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
-udp://tracker.tricitytorrents.com:2710/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.valete.tf:9999/announce
