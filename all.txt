@@ -361,7 +361,6 @@ http://explodie.org:6969/announce
 http://fe.dealclub.de:6969/announce
 http://finbytes.org/announce.php
 http://finbytes.org:80/announce.php
-http://fleira.no:6969/announce
 http://fosstorrents.com:6969/announce
 http://frp.v2fy.com:8000/announce
 http://ftp.pet:2710/announce
