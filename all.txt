@@ -544,6 +544,7 @@ http://tr.bangumi.moe:6969/announce
 http://tr.cili001.com:8070/announce
 http://tr.kxmp.cf/announce
 http://tr.kxmp.cf:80/announce
+http://tr.movian.eu:6969/announce
 http://tr.nyacat.pw/announce
 http://tr.nyacat.pw:80/announce
 http://tr1.aag.moe:2095/announce
