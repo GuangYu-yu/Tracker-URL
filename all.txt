@@ -23,7 +23,6 @@ http://116.9.207.198:6969/announce
 http://116.9.207.226:6969/announce
 http://119.28.71.45:8080/announce
 http://125.227.35.196:6969/announce
-http://125.227.79.123:6969/announce
 http://125.227.79.123:80/announce
 http://128.199.70.66:5944/announce
 http://129.146.193.240:6699/announce
@@ -693,7 +692,6 @@ http://tracker.trackerfix.com/announce
 http://tracker.trackerfix.com:80/announce
 http://tracker.trancetraffic.com/announce.php
 http://tracker.trancetraffic.com:80/announce.php
-http://tracker.tricitytorrents.com:2710/announce
 http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.vanitycore.co:6969/announce
 http://tracker.vraphim.com:6969/announce
@@ -1177,6 +1175,7 @@ udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 udp://cq.kmzs123.cn:17272/announce
 udp://cutscloud.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
+udp://denis.stalker.upeer.me:1337/announce
 udp://devops.gay:6969/announce
 udp://dht.bt251.com:6969/announce
 udp://download.nerocloud.me:6969/announce
@@ -1238,6 +1237,7 @@ udp://open.stealth.si:80/announce
 udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
 udp://open.u-p.pw:6969/announce
+udp://openbittorrent.com:80/announce
 udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
