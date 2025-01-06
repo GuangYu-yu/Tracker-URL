@@ -348,6 +348,7 @@ http://datascene.net:80/announce.php
 http://debuz.com:6969/announce
 http://dht.dhtclub.com:666/announce
 http://dn42.smrsh.net:6969/announce
+http://echostar.ddnsfree.com:8080/announce
 http://ehtracker.org/1/announce
 http://ehtracker.org/1104308/announce
 http://ehtracker.org/1113709/announce
@@ -1148,7 +1149,6 @@ udp://acxx.de:6969/announce
 udp://admin.52ywp.com:6969/announce
 udp://admin.videoenpoche.info:6969/announce
 udp://aegir.sexy:6969/announce
-udp://amigacity.xyz:6969/announce
 udp://app.icon256.com:8000/announce
 udp://astrr.ru:6969/announce
 udp://bananas.space:6969/announce
