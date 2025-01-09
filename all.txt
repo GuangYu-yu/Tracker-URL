@@ -298,6 +298,7 @@ http://bt.poletracker.org:2710/announce
 http://bt.pusacg.org:8080/announce
 http://bt.rghost.net/announce
 http://bt.rghost.net:80/announce
+http://bt.unionpeer.org:777/announce
 http://bt.zlofenix.org:81/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
@@ -356,6 +357,7 @@ http://grifon.info/announce
 http://grifon.info:80/announce
 http://h4.trakx.nibba.trade/announce
 http://h4.trakx.nibba.trade:80/announce
+http://hdreactor.org:2710/announce
 http://highteahop.top:6960/announce
 http://home.kray.pw:6969/announce
 http://home.yxgz.club:6969/announce
@@ -396,7 +398,6 @@ http://mixfiend.com:80/announce.php
 http://mkfs.ru/announce
 http://montreal.nyap2p.com:8080/announce
 http://movies.zsw.ca:6969/announce
-http://music-torrent.net:2710/announce
 http://mvgforumtracker.mvgroup.org/tracker.php/announce
 http://mvgforumtracker.mvgroup.org/tracker.php:80/announce
 http://mvgforumtracker.mvgroup.org:80/tracker.php/announce
@@ -730,7 +731,6 @@ http://www.arabp2p.net:2052/f5a1e35785c9f3885fd54f34b6e262b8/announce
 http://www.bit-hdtv.com:2710/announce
 http://www.bitseduce.com/announce.php
 http://www.biztorrents.com/announce.php
-http://www.blackcats-games.net:2228/announce
 http://www.chouchou.club:8080/announce
 http://www.genesis-sp.org:2710/announce
 http://www.learnbits.me/announce.php
@@ -744,7 +744,6 @@ http://www.nartlof.com.br:6969/announce
 http://www.peckservers.com:9000/announce
 http://www.shnflac.net/announce.php
 http://www.siambt.com/announce.php
-http://www.theplace.bz:2910/announce
 http://www.thetradersden.org/forums/tracker/announce.php
 http://www.thetradersden.org/forums/tracker:80/announce.php
 http://www.torrentsnipe.info:2701/announce
@@ -1106,7 +1105,6 @@ udp://89.110.76.229:6969/announce
 udp://89.234.156.205:80/announce
 udp://89.36.216.8:6969/announce
 udp://9.rarbg.com:2710/announce
-udp://9.rarbg.me:2740/announce
 udp://9.rarbg.me:2780/announce
 udp://9.rarbg.to:2730/announce
 udp://91.208.197.19:6969/announce
@@ -1160,7 +1158,6 @@ udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 udp://cq.kmzs123.cn:17272/announce
 udp://cutscloud.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
-udp://denis.stalker.upeer.me:1337/announce
 udp://devops.gay:6969/announce
 udp://dht.bt251.com:6969/announce
 udp://download.nerocloud.me:6969/announce
@@ -1360,6 +1357,7 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
+udp://tracker.tricitytorrents.com:2710/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.valete.tf:9999/announce
