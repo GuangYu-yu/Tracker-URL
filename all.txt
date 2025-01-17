@@ -752,7 +752,6 @@ http://www.bitseduce.com/announce.php
 http://www.biztorrents.com/announce.php
 http://www.chouchou.club:8080/announce
 http://www.genesis-sp.org:2710/announce
-http://www.learnbits.me/announce.php
 http://www.legittorrents.info/announce.php
 http://www.legittorrents.info:80/announce.php
 http://www.megatorrents.kg/announce.php
@@ -1104,11 +1103,9 @@ udp://51.68.174.87:6969/announce
 udp://51.81.222.188:6969/announce
 udp://52.58.128.163:6969/announce
 udp://6.pocketnet.app:6969/announce
-udp://60.249.37.20:6969/announce
 udp://62.138.0.158:6969/announce
 udp://62.212.85.66:2710/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
-udp://7.rarbg.me:2710/announce
 udp://74.82.52.209:6969/announce
 udp://79.116.150.234:1234/announce
 udp://7p41a8967.wicp.vip:22222/announce
@@ -1122,7 +1119,7 @@ udp://89.110.76.229:6969/announce
 udp://89.234.156.205:80/announce
 udp://89.36.216.8:6969/announce
 udp://9.rarbg.com:2710/announce
-udp://9.rarbg.me:2720/announce
+udp://9.rarbg.me:2740/announce
 udp://9.rarbg.me:2780/announce
 udp://9.rarbg.to:2730/announce
 udp://91.208.197.19:6969/announce
