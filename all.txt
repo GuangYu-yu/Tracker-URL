@@ -26,7 +26,6 @@ http://116.9.207.226:6969/announce
 http://118.163.198.106:6969/announce
 http://119.28.71.45:8080/announce
 http://125.227.35.196:6969/announce
-http://125.227.79.123:6969/announce
 http://128.199.70.66:5944/announce
 http://129.146.193.240:6699/announce
 http://13.115.115.32:6969/announce
@@ -198,7 +197,6 @@ http://60-fps.org/bt/announce.php
 http://60-fps.org/bt:80/announce.php
 http://60-fps.org:80/bt/announce.php
 http://60-fps.org:80/bt:80/announce.php
-http://60.249.37.20:6969/announce
 http://60.249.37.20:80/announce
 http://61.216.109.95:6969/announce
 http://61.216.149.33:6969/announce
@@ -360,7 +358,6 @@ http://ehtracker.org/1226599/1080494xo5eXcwFOBq/announce
 http://ehtracker.org/2496841/announce
 http://ehtracker.org/2541477/announce
 http://ehtracker.org/2566145/1159106xUfsJkT9Btg/announce
-http://ehtracker.org:80/1/announce
 http://explodie.org:6969/announce
 http://fe.dealclub.de:6969/announce
 http://finbytes.org/announce.php
@@ -456,6 +453,7 @@ http://p4p.arenabg.com:1337/announce
 http://parag.rs:6969/announce
 http://peersteers.org/announce
 http://peersteers.org:80/announce
+http://potuk.com:2710/announce
 http://pow7.com/announce
 http://pow7.com:80/announce
 http://prestige.minimafia.nl:443/announce
@@ -1125,7 +1123,7 @@ udp://89.110.76.229:6969/announce
 udp://89.234.156.205:80/announce
 udp://89.36.216.8:6969/announce
 udp://9.rarbg.com:2710/announce
-udp://9.rarbg.me:2770/announce
+udp://9.rarbg.me:2750/announce
 udp://9.rarbg.me:2780/announce
 udp://9.rarbg.to:2730/announce
 udp://91.208.197.19:6969/announce
@@ -1382,6 +1380,7 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
+udp://tracker.tricitytorrents.com:2710/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.valete.tf:9999/announce
