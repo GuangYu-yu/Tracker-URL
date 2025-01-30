@@ -22,7 +22,6 @@ http://116.9.207.121:6969/announce
 http://116.9.207.164:6969/announce
 http://116.9.207.198:6969/announce
 http://116.9.207.226:6969/announce
-http://118.163.198.106:6969/announce
 http://119.28.71.45:8080/announce
 http://125.227.35.196:6969/announce
 http://128.199.70.66:5944/announce
@@ -753,6 +752,7 @@ http://www.nartlof.com.br:6969/announce
 http://www.peckservers.com:9000/announce
 http://www.shnflac.net/announce.php
 http://www.siambt.com/announce.php
+http://www.theoccult.bz:3010/announce
 http://www.thetradersden.org/forums/tracker/announce.php
 http://www.thetradersden.org/forums/tracker:80/announce.php
 http://www.torrentsnipe.info:2701/announce
@@ -1001,7 +1001,6 @@ udp://109.201.134.183:80/announce
 udp://11.rarbg.com:80/announce
 udp://114.55.113.60:6969/announce
 udp://119.28.71.45:8080/announce
-udp://125.227.79.123:80/announce
 udp://128.199.70.66:5944/announce
 udp://135.125.106.92:6969/announce
 udp://135.125.202.143:6969/announce
@@ -1107,8 +1106,8 @@ udp://89.234.156.205:451/announce
 udp://89.234.156.205:80/announce
 udp://89.36.216.8:6969/announce
 udp://9.rarbg.com:2710/announce
-udp://9.rarbg.me:2720/announce
 udp://9.rarbg.me:2780/announce
+udp://9.rarbg.me:2790/announce
 udp://9.rarbg.to:2730/announce
 udp://91.211.5.21:6969/announce
 udp://91.218.230.81:6969/announce
