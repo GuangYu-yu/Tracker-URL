@@ -1112,7 +1112,6 @@ udp://62.212.85.66:2710/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://74.82.52.209:6969/announce
 udp://79.117.5.107:1234/announce
-udp://7p41a8967.wicp.vip:22222/announce
 udp://82.65.115.10:6969/announce
 udp://83.146.104.30:6969/announce
 udp://83.6.210.62:6969/announce
