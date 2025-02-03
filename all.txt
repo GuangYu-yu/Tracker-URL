@@ -191,7 +191,6 @@ http://60-fps.org/bt/announce.php
 http://60-fps.org/bt:80/announce.php
 http://60-fps.org:80/bt/announce.php
 http://60-fps.org:80/bt:80/announce.php
-http://60.249.37.20:80/announce
 http://61.216.109.95:6969/announce
 http://61.216.149.33:6969/announce
 http://61.216.166.123:6969/announce
@@ -309,6 +308,7 @@ http://bt.poletracker.org:2710/announce
 http://bt.pusacg.org:8080/announce
 http://bt.rghost.net/announce
 http://bt.rghost.net:80/announce
+http://bt.unionpeer.org:777/announce
 http://bt.zlofenix.org:81/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
@@ -368,6 +368,7 @@ http://grifon.info/announce
 http://grifon.info:80/announce
 http://h4.trakx.nibba.trade/announce
 http://h4.trakx.nibba.trade:80/announce
+http://hdreactor.org:2710/announce
 http://highteahop.top:6960/announce
 http://home.kray.pw:6969/announce
 http://home.yxgz.club:6969/announce
@@ -595,6 +596,7 @@ http://tracker.electro-torrent.pl/announce
 http://tracker.electro-torrent.pl:80/announce
 http://tracker.encrypted-data.xyz:1337/announce
 http://tracker.enitin.xyz/announce
+http://tracker.enitin.xyz:80/announce
 http://tracker.etree.org:6969/announce
 http://tracker.ex.ua/announce
 http://tracker.ex.ua:80/announce
@@ -745,7 +747,6 @@ http://www.arabp2p.net:2052/f5a1e35785c9f3885fd54f34b6e262b8/announce
 http://www.bit-hdtv.com:2710/announce
 http://www.bitseduce.com/announce.php
 http://www.biztorrents.com/announce.php
-http://www.blackcats-games.net:2228/announce
 http://www.chouchou.club:8080/announce
 http://www.genesis-sp.org:2710/announce
 http://www.legittorrents.info/announce.php
@@ -758,6 +759,7 @@ http://www.nartlof.com.br:6969/announce
 http://www.peckservers.com:9000/announce
 http://www.shnflac.net/announce.php
 http://www.siambt.com/announce.php
+http://www.theplace.bz:2910/announce
 http://www.thetradersden.org/forums/tracker/announce.php
 http://www.thetradersden.org/forums/tracker:80/announce.php
 http://www.torrentsnipe.info:2701/announce
@@ -1066,11 +1068,9 @@ udp://220.200.35.65:2710/announce
 udp://220.200.35.65:6969/announce
 udp://23.137.251.45:6969/announce
 udp://23.153.248.83:6969/announce
-udp://23.157.120.14:6969/announce
 udp://23.163.56.66:6969/announce
 udp://23.168.232.9:1337/announce
 udp://34.94.76.146:1337/announce
-udp://34.94.76.146:6969/announce
 udp://37.1.205.12:6969/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
@@ -1101,6 +1101,7 @@ udp://6.pocketnet.app:6969/announce
 udp://62.138.0.158:6969/announce
 udp://62.212.85.66:2710/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://7.rarbg.me:2710/announce
 udp://74.82.52.209:6969/announce
 udp://79.117.5.107:1234/announce
 udp://82.65.115.10:6969/announce
@@ -1115,7 +1116,6 @@ udp://89.234.156.205:80/announce
 udp://89.36.216.8:6969/announce
 udp://9.rarbg.com:2710/announce
 udp://9.rarbg.me:2780/announce
-udp://9.rarbg.me:2910/announce
 udp://9.rarbg.to:2730/announce
 udp://91.211.5.21:6969/announce
 udp://91.218.230.81:6969/announce
@@ -1265,7 +1265,6 @@ udp://ssb14.nohost.me:6969/announce
 udp://stargrave.org:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://su-data.com:6969/announce
-udp://sugoi.pomf.se:80/announce
 udp://t.overflow.biz:6969/announce
 udp://t.zerg.pw:6969/announce
 udp://tamas3.ynh.fr:6969/announce
@@ -1301,6 +1300,7 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.ccc.de:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.coppersurfer.tk:6969/announce
+udp://tracker.coppersurfer.tk:80/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.cypherpunks.ru:6969/announce
@@ -1358,7 +1358,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
-udp://tracker.tricitytorrents.com:2710/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.valete.tf:9999/announce
