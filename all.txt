@@ -815,7 +815,6 @@ https://inferno.demonoid.is/announce
 https://k.avc.cx/announce.php
 https://k.avc.cx:443/announce.php
 https://k3tracker.cc/announce/0b0b5b2bb71770aa0df56f80a4863f07
-https://mathkangaroo.jp:443/announce
 https://nyaa.tracker.wf:7777/announce
 https://open.kickasstracker.com/announce
 https://open.kickasstracker.com:443/announce
