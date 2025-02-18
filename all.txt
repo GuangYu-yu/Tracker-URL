@@ -798,7 +798,6 @@ https://bt.080609.xyz:443/announce
 https://bt.beatrice-raws.org/announce
 https://bt.endpot.com/announce
 https://bt.nfshost.com/announce
-https://bt2.080609.xyz:443/announce
 https://carapax.net/announce
 https://carbon-bonsai-621.appspot.com/announce
 https://carbon-bonsai-621.appspot.com:443/announce
