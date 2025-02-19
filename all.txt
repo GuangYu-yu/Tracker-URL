@@ -112,6 +112,7 @@ http://210.244.71.25:6969/announce
 http://210.244.71.26:6969/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
+http://211.75.210.121:6969/announce
 http://211.75.210.121:80/announce
 http://211.75.210.122:6969/announce
 http://211.75.210.220:6969/announce
@@ -315,6 +316,7 @@ http://bt.poletracker.org:2710/announce
 http://bt.pusacg.org:8080/announce
 http://bt.rghost.net/announce
 http://bt.rghost.net:80/announce
+http://bt.unionpeer.org:777/announce
 http://bt.zlofenix.org:81/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
@@ -527,7 +529,6 @@ http://torrent.nwps.ws:80/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
 http://torrent.unix-ag.uni-kl.de:80/announce
-http://torrents-nn.cn:2710/announce
 http://torrents.hikarinokiseki.com:6969/announce
 http://torrents.linuxmint.com/announce.php
 http://torrents.linuxmint.com:80/announce.php
@@ -751,7 +752,6 @@ http://www.arabp2p.net:2052/f5a1e35785c9f3885fd54f34b6e262b8/announce
 http://www.bit-hdtv.com:2710/announce
 http://www.bitseduce.com/announce.php
 http://www.biztorrents.com/announce.php
-http://www.blackcats-games.net:2228/announce
 http://www.chouchou.club:8080/announce
 http://www.genesis-sp.org:2710/announce
 http://www.legittorrents.info/announce.php
@@ -764,6 +764,7 @@ http://www.nartlof.com.br:6969/announce
 http://www.peckservers.com:9000/announce
 http://www.shnflac.net/announce.php
 http://www.siambt.com/announce.php
+http://www.theplace.bz:2910/announce
 http://www.thetradersden.org/forums/tracker/announce.php
 http://www.thetradersden.org/forums/tracker:80/announce.php
 http://www.torrentsnipe.info:2701/announce
@@ -1115,8 +1116,8 @@ udp://89.110.76.229:6969/announce
 udp://89.234.156.205:80/announce
 udp://89.36.216.8:6969/announce
 udp://9.rarbg.com:2710/announce
+udp://9.rarbg.me:2740/announce
 udp://9.rarbg.me:2780/announce
-udp://9.rarbg.me:2800/announce
 udp://9.rarbg.to:2730/announce
 udp://91.211.5.21:6969/announce
 udp://91.216.110.53:451/announce
@@ -1226,7 +1227,6 @@ udp://open.stealth.si:80/announce
 udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
 udp://open.u-p.pw:6969/announce
-udp://openbittorrent.com:80/announce
 udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
