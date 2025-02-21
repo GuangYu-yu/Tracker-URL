@@ -1333,7 +1333,6 @@ udp://tracker.kmzs123.top:17272/announce
 udp://tracker.kuroy.me:5944/announce
 udp://tracker.leechers-paradise.org:6969/announce
 udp://tracker.lelux.fi:6969/announce
-udp://tracker.linvk.com:6969/announce
 udp://tracker.mg64.net:2710/announce
 udp://tracker.mg64.net:6969/announce
 udp://tracker.monitorit4.me:6969/announce
