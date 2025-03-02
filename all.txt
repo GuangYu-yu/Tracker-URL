@@ -114,7 +114,6 @@ http://210.61.187.208:80/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
 http://211.75.210.122:6969/announce
-http://211.75.210.220:80/announce
 http://211.75.29.254:6969/announce
 http://212.6.3.67/announce
 http://213.159.215.198:6970/announce
@@ -160,6 +159,7 @@ http://45.154.253.6:80/announce
 http://45.154.253.7/announce
 http://45.154.253.8/announce
 http://45.154.253.9/announce
+http://45.154.96.35:6969/announce
 http://45.154.98.215:6969/announce
 http://45.63.111.135:2710/announce
 http://45.63.111.135:6961/announce
@@ -598,7 +598,6 @@ http://tracker.electro-torrent.pl/announce
 http://tracker.electro-torrent.pl:80/announce
 http://tracker.encrypted-data.xyz:1337/announce
 http://tracker.enitin.xyz/announce
-http://tracker.enitin.xyz:80/announce
 http://tracker.etree.org:6969/announce
 http://tracker.ex.ua/announce
 http://tracker.ex.ua:80/announce
@@ -762,7 +761,6 @@ http://www.nartlof.com.br:6969/announce
 http://www.peckservers.com:9000/announce
 http://www.shnflac.net/announce.php
 http://www.siambt.com/announce.php
-http://www.theplace.bz:2910/announce
 http://www.thetradersden.org/forums/tracker/announce.php
 http://www.thetradersden.org/forums/tracker:80/announce.php
 http://www.torrentsnipe.info:2701/announce
@@ -1059,6 +1057,7 @@ udp://209.126.11.233:6969/announce
 udp://209.141.59.25:6969/announce
 udp://210.61.187.208:80/announce
 udp://211.75.210.122:6969/announce
+udp://211.75.210.220:80/announce
 udp://211.75.29.254:6969/announce
 udp://213.163.67.56:1337/announce
 udp://217.30.10.77:6969/announce
@@ -1115,8 +1114,8 @@ udp://89.110.76.229:6969/announce
 udp://89.234.156.205:80/announce
 udp://89.36.216.8:6969/announce
 udp://9.rarbg.com:2710/announce
+udp://9.rarbg.me:2750/announce
 udp://9.rarbg.me:2780/announce
-udp://9.rarbg.me:2790/announce
 udp://9.rarbg.to:2730/announce
 udp://91.211.5.21:6969/announce
 udp://91.216.110.53:451/announce
@@ -1226,7 +1225,6 @@ udp://open.stealth.si:80/announce
 udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
 udp://open.u-p.pw:6969/announce
-udp://openbittorrent.com:80/announce
 udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
