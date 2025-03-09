@@ -113,7 +113,6 @@ http://210.244.71.26:6969/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
 http://211.75.210.121:6969/announce
-http://211.75.210.122:6969/announce
 http://211.75.210.122:80/announce
 http://211.75.29.254:6969/announce
 http://212.6.3.67/announce
@@ -1062,15 +1061,11 @@ udp://208.67.16.113:8000/announce
 udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.25:6969/announce
-udp://210.61.187.208:6969/announce
 udp://211.75.210.121:6969/announce
 udp://211.75.210.122:80/announce
-udp://211.75.210.123:80/announce
 udp://211.75.29.254:6969/announce
 udp://213.163.67.56:1337/announce
 udp://217.30.10.77:6969/announce
-udp://222.84.22.86:6969/announce
-udp://23.134.88.9:1337/announce
 udp://23.134.89.9:1337/announce
 udp://23.137.251.45:6969/announce
 udp://23.153.248.83:6969/announce
@@ -1121,7 +1116,6 @@ udp://89.234.156.205:80/announce
 udp://89.36.216.8:6969/announce
 udp://9.rarbg.com:2710/announce
 udp://9.rarbg.me:2780/announce
-udp://9.rarbg.me:2820/announce
 udp://9.rarbg.to:2730/announce
 udp://91.211.5.21:6969/announce
 udp://91.216.110.53:451/announce
@@ -1358,6 +1352,7 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
+udp://tracker.tricitytorrents.com:2710/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.valete.tf:9999/announce
@@ -1401,6 +1396,7 @@ udp://zephir.monocul.us:6969/announce
 udp://zer0day.ch:1337/announce
 udp://zer0day.to:1337/announce
 ws://tracker.files.fm:7072/announce
+wss://peertube.cpy.re:443/tracker/socket
 wss://qot.abiir.top:443/announce
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 wss://tracker.btorrent.xyz:443/announce
