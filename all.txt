@@ -1108,6 +1108,7 @@ udp://51.81.222.188:6969/announce
 udp://52.58.128.163:6969/announce
 udp://54.39.48.3:6969/announce
 udp://6.pocketnet.app:6969/announce
+udp://6.tracker.devnak.win:6969/announce
 udp://60.249.37.20:6969/announce
 udp://62.138.0.158:6969/announce
 udp://62.212.85.66:2710/announce
@@ -1159,7 +1160,6 @@ udp://bedro.cloud:6969/announce
 udp://ben.kerbertools.xyz:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://black-bird.ynh.fr:6969/announce
-udp://bt-tracker.devnak.win:6969/announce
 udp://bt.aoeex.com:8000/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.letpo.com:6969/announce
