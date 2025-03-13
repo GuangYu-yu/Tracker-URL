@@ -192,6 +192,7 @@ http://52.70.94.249/announce
 http://54.39.98.124/announce
 http://54.39.98.124:80/announce
 http://59.36.96.77:6969/announce
+http://6.tracker.devnak.win:6969/announce
 http://60-fps.org/bt/announce.php
 http://60-fps.org/bt:80/announce.php
 http://60-fps.org:80/bt/announce.php
@@ -1107,7 +1108,6 @@ udp://51.81.222.188:6969/announce
 udp://52.58.128.163:6969/announce
 udp://54.39.48.3:6969/announce
 udp://6.pocketnet.app:6969/announce
-udp://6.tracker.devnak.win:6969/announce
 udp://60.249.37.20:6969/announce
 udp://62.138.0.158:6969/announce
 udp://62.212.85.66:2710/announce
@@ -1361,7 +1361,6 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.tcp.exchange:6969/announce
-udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
