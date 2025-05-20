@@ -625,7 +625,6 @@ http://tracker.lelux.fi:80/announce
 http://tracker.letpo.com/announce
 http://tracker.linkomanija.org:2710/announce
 http://tracker.lintk.me:2710/announce
-http://tracker.lyretain.site:2710/announce
 http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.moxing.party:6969/announce
@@ -1291,7 +1290,6 @@ udp://tracker.deadorbit.nl:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 udp://tracker.ducks.party:1984/announce
-udp://tracker.dump.cl:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.edkj.club:6969/announce
 udp://tracker.ex.ua:80/announce
@@ -1371,15 +1369,12 @@ udp://yann5.hexanyn.fr:6969/announce
 udp://zecircle.xyz:6969/announce
 udp://zer0day.ch:1337/announce
 udp://zer0day.to:1337/announce
-ws://tracker.files.fm:7072/announce
 wss://peertube.cpy.re:443/tracker/socket
 wss://qot.abiir.top:443/announce
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
-wss://tracker.btorrent.xyz:443
 wss://tracker.btorrent.xyz:443/announce
 wss://tracker.dnlab.net:443/announce
 wss://tracker.files.fm:7073/announce
-wss://tracker.magnetoo.io/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
 wss://tracker.webtorrent.dev:443
