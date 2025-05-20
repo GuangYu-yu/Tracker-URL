@@ -1369,12 +1369,15 @@ udp://yann5.hexanyn.fr:6969/announce
 udp://zecircle.xyz:6969/announce
 udp://zer0day.ch:1337/announce
 udp://zer0day.to:1337/announce
+ws://tracker.files.fm:7072/announce
 wss://peertube.cpy.re:443/tracker/socket
 wss://qot.abiir.top:443/announce
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
+wss://tracker.btorrent.xyz:443
 wss://tracker.btorrent.xyz:443/announce
 wss://tracker.dnlab.net:443/announce
 wss://tracker.files.fm:7073/announce
+wss://tracker.magnetoo.io/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
 wss://tracker.webtorrent.dev:443
