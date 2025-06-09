@@ -626,7 +626,6 @@ http://tracker.lelux.fi:80/announce
 http://tracker.letpo.com/announce
 http://tracker.linkomanija.org:2710/announce
 http://tracker.lintk.me:2710/announce
-http://tracker.lyretain.site:2710/announce
 http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.moxing.party:6969/announce
@@ -701,7 +700,6 @@ http://tracker.yoshi210.com:6969/announce
 http://tracker.yuelili.com/announce
 http://tracker.yuelili.com:80/announce
 http://tracker.zerobytes.xyz:1337/announce
-http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker.zhuqiy.top:80/announce
 http://tracker1.bt.moack.co.kr/announce
 http://tracker1.bt.moack.co.kr:80/announce
@@ -827,6 +825,7 @@ https://t.zerg.pw:443/announce
 https://t1.hloli.org/announce
 https://t1.hloli.org:443/announce
 https://t1.tokhmi.xyz/announce
+https://threads.canofsocks.com:443/announce
 https://tk.mabo.ltd/announce
 https://tk.mabo.ltd:443/announce
 https://torrent-tracker.hama3.net/announce
@@ -1160,7 +1159,6 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 udp://denis.stalker.upeer.me:1337/announce
 udp://devops.gay:6969/announce
 udp://dht.bt251.com:6969/announce
-udp://discord.heihachi.pw:6969/announce
 udp://download.nerocloud.me:6969/announce
 udp://eddie4.nl:6969/announce
 udp://elementsbrowser.com:6969/announce
@@ -1181,7 +1179,6 @@ udp://ipv4.tracker.harry.lu/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://ipv6.tracker.harry.lu/announce
-udp://isk.richardsw.club:6969/announce
 udp://jutone.com:6969/announce
 udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
@@ -1365,7 +1362,6 @@ udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://v2.iperson.xyz:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://wepzone.net:6969/announce
-udp://www.2600.com:6969/announce
 udp://www.peckservers.com:9000/announce
 udp://www.torrent.eu.org:451/announce
 udp://yahor.ftp.sh:6969/announce
