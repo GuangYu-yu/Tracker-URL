@@ -622,7 +622,6 @@ http://tracker.lelux.fi:80/announce
 http://tracker.letpo.com/announce
 http://tracker.linkomanija.org:2710/announce
 http://tracker.lintk.me:2710/announce
-http://tracker.lyretain.site:2710/announce
 http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.moxing.party:6969/announce
@@ -834,6 +833,8 @@ https://torrents.linuxmint.com/announce.php
 https://torrents.linuxmint.com:443/announce.php
 https://tp.m-team.cc/announce.php
 https://tp.m-team.cc:443/announce.php
+https://tr-zhuqiy-1.dgj055.icu:443/announce
+https://tr-zhuqiy-2.dgj055.icu:443/announce
 https://tr.abiir.top/announce
 https://tr.abiir.top:443/announce
 https://tr.abir.ga/announce
@@ -888,6 +889,7 @@ https://tracker.gbitt.info/announce
 https://tracker.gbitt.info:443/announce
 https://tracker.gcrenwp.top:443/announce
 https://tracker.ghostchu-services.top:443/announce
+https://tracker.guguan.dpdns.org:443/announce
 https://tracker.h3o2.me:443/announce
 https://tracker.imgoingto.icu/announce
 https://tracker.imgoingto.icu:443/announce
@@ -1351,6 +1353,7 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 udp://tracker4.piratux.com:6969/announce
+udp://trl-zhuqiy.dgj055.icu:6969/announce
 udp://tsundere.pw:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
