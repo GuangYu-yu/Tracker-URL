@@ -625,7 +625,6 @@ http://tracker.lelux.fi:80/announce
 http://tracker.letpo.com/announce
 http://tracker.linkomanija.org:2710/announce
 http://tracker.lintk.me:2710/announce
-http://tracker.lyretain.site:2710/announce
 http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.moxing.party:6969/announce
@@ -926,6 +925,7 @@ https://tracker.mlsub.net/announce
 https://tracker.mlsub.net:443/announce
 https://tracker.moeblog.cn/announce
 https://tracker.moeblog.cn:443/announce
+https://tracker.moeking.me:443/announce
 https://tracker.monikadesign.uk/announce/63ea34cb9815cd28d63fc75b2f2c5a56
 https://tracker.monikadesign.uk/announce/a46be21ab845cc0d534d06fea801f95a
 https://tracker.moxing.party:6969/announce
@@ -1182,7 +1182,6 @@ udp://ipv4.tracker.harry.lu/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://ipv6.tracker.harry.lu/announce
-udp://isk.richardsw.club:6969/announce
 udp://jutone.com:6969/announce
 udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
