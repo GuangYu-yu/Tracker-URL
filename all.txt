@@ -11,6 +11,7 @@ http://106.14.254.164:6969/announce
 http://107.150.14.110:6969/announce
 http://107.152.127.9:6969/announce
 http://107.189.10.20.sslip.io:7777/announce
+http://107.189.2.131:1337/announce
 http://107.189.31.134:6969/announce
 http://107.189.7.143:6969/announce
 http://109.121.134.121:1337/announce
@@ -111,8 +112,7 @@ http://210.244.71.26:6969/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
 http://211.75.205.187:6969/announce
-http://211.75.205.187:80/announce
-http://211.75.205.188:6969/announce
+http://211.75.205.188:80/announce
 http://211.75.210.123:6969/announce
 http://211.75.29.254:6969/announce
 http://212.6.3.67/announce
@@ -124,8 +124,8 @@ http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
+http://34.89.91.10:11450/announce
 http://34.89.91.10:1337/announce
-http://34.89.91.10:2701/announce
 http://34.89.91.10:2710/announce
 http://34.89.91.10:6969/announce
 http://34.89.91.10:80/announce
@@ -139,7 +139,6 @@ http://34.94.76.146:6969/announce
 http://34.94.76.146:80/announce
 http://35.227.12.84/announce
 http://35.227.12.84:2710/announce
-http://35.227.59.57:11450/announce
 http://35.227.59.57:2710/announce
 http://35.227.59.57:443/announce
 http://35.227.59.57:6969/announce
@@ -194,6 +193,7 @@ http://60-fps.org/bt/announce.php
 http://60-fps.org/bt:80/announce.php
 http://60-fps.org:80/bt/announce.php
 http://60-fps.org:80/bt:80/announce.php
+http://60.249.37.20:6969/announce
 http://61.216.109.95:6969/announce
 http://61.216.149.33:6969/announce
 http://61.216.166.123:6969/announce
@@ -276,6 +276,7 @@ http://big-boss-tracker.net/announce.php
 http://bigfoot1942.sektori.org:6969/announce
 http://bithq.org/announce.php
 http://bithq.org:80/announce.php
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://blackz.ro/announce.php
 http://bluebird-hd.org/announce.php
 http://bluebird-hd.org:80/announce.php
@@ -995,6 +996,7 @@ udp://104.131.98.232:6969/announce
 udp://104.143.10.186:8000/announce
 udp://107.150.14.110:6969/announce
 udp://107.175.221.194:6969/announce
+udp://107.189.2.131:1337/announce
 udp://108.53.194.223:6969/announce
 udp://109.121.134.121:1337/announce
 udp://109.201.134.183:80/announce
@@ -1047,10 +1049,10 @@ udp://201.13.51.82:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://208.67.16.113:8000/announce
+udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.25:6969/announce
-udp://211.75.205.187:6969/announce
-udp://211.75.205.187:80/announce
+udp://211.75.205.188:80/announce
 udp://211.75.210.121:6969/announce
 udp://211.75.29.254:6969/announce
 udp://213.163.67.56:1337/announce
@@ -1061,9 +1063,7 @@ udp://23.137.251.45:6969/announce
 udp://23.157.120.14:6969/announce
 udp://23.163.56.66:6969/announce
 udp://23.168.232.9:1337/announce
-udp://34.89.91.10:1337/announce
-udp://35.227.59.57:1337/announce
-udp://35.227.59.57:6969/announce
+udp://34.89.91.10:6969/announce
 udp://37.1.205.12:6969/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
@@ -1093,6 +1093,7 @@ udp://51.81.222.188:6969/announce
 udp://52.58.128.163:6969/announce
 udp://54.39.48.3:6969/announce
 udp://6.pocketnet.app:6969/announce
+udp://60.249.37.20:6969/announce
 udp://62.138.0.158:6969/announce
 udp://62.212.85.66:2710/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
@@ -1107,6 +1108,7 @@ udp://85.17.19.180:80/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
 udp://89.110.76.229:6969/announce
+udp://89.234.156.205:451/announce
 udp://89.234.156.205:80/announce
 udp://89.36.216.8:6969/announce
 udp://9.rarbg.com:2710/announce
@@ -1114,7 +1116,6 @@ udp://9.rarbg.me:2720/announce
 udp://9.rarbg.me:2780/announce
 udp://9.rarbg.to:2730/announce
 udp://91.211.5.21:6969/announce
-udp://91.216.110.53:451/announce
 udp://91.218.230.81:6969/announce
 udp://93.104.214.40:6969/announce
 udp://93.158.213.92:1337//announce
@@ -1141,6 +1142,7 @@ udp://bananas.space:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://bedro.cloud:6969/announce
 udp://ben.kerbertools.xyz:6969/announce
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://black-bird.ynh.fr:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.letpo.com:6969/announce
