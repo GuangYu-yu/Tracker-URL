@@ -824,6 +824,7 @@ https://opentracker.xyz/announce
 https://opentracker.xyz:443/announce
 https://pybittrack.retiolus.net:443/announce
 https://seeders-paradise.org/announce
+https://shahidrazi.online:443/announce
 https://t.213891.xyz:443/announce
 https://t.btcland.xyz/announce
 https://t.btcland.xyz:443/announce
@@ -1187,7 +1188,6 @@ udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
-udp://glotorrents.pw:6969/announce
 udp://hificode.in:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
@@ -1202,7 +1202,6 @@ udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
 udp://laze.cc:6969/announce
 udp://leefafa.tk:6969/announce
-udp://leet-tracker.moe:1337/announce
 udp://ln.mtahost.co:6969/announce
 udp://mail.artixlinux.org:6969/announce
 udp://mail.segso.net:6969/announce
@@ -1292,7 +1291,6 @@ udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
-udp://tracker.bontal.net:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.btsync.gq:233/announce
 udp://tracker.ccc.de:80/announce
