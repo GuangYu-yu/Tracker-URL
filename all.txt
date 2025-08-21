@@ -22,7 +22,7 @@ http://116.9.207.164:6969/announce
 http://116.9.207.198:6969/announce
 http://116.9.207.226:6969/announce
 http://119.28.71.45:8080/announce
-http://123.245.62.67:6969/announce
+http://123.245.62.68:6969/announce
 http://125.227.35.196:6969/announce
 http://128.199.70.66:5944/announce
 http://129.146.193.240:6699/announce
@@ -30,7 +30,6 @@ http://13.115.115.32:6969/announce
 http://1337.abcvg.info/announce
 http://1337.abcvg.info/announce+108
 http://1337.abcvg.info:80/announce
-http://138.124.183.78:6969/announce
 http://140.82.21.192:8080/announce
 http://141.144.224.250:2710/announce
 http://141.144.224.250:6969/announce
@@ -91,6 +90,7 @@ http://187.57.14.62:6969/announce
 http://188.165.253.109:1337/announce
 http://189.0.196.51:6969/announce
 http://189.110.233.96:6969/announce
+http://191.23.62.147:6969/announce
 http://192.3.165.191:6969/announce
 http://192.9.228.30:6699/announce
 http://193.31.26.113:6969/announce
@@ -113,7 +113,9 @@ http://210.244.71.25:6969/announce
 http://210.244.71.26:6969/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
+http://211.75.205.187:6969/announce
 http://211.75.210.123:6969/announce
+http://211.75.210.221:80/announce
 http://211.75.29.254:6969/announce
 http://212.6.3.67/announce
 http://213.159.215.198:6970/announce
@@ -125,22 +127,23 @@ http://220.130.15.30:6969/announce
 http://220.200.35.40:2710/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
-http://34.89.91.10:11450/announce
-http://34.89.91.10:1337/announce
-http://34.89.91.10:6960/announce
+http://34.89.91.10:2710/announce
 http://34.89.91.10:6969/announce
-http://34.89.91.10:80/announce
-http://34.89.91.10:80/announce.php
 http://34.94.213.23/announce
 http://34.94.213.23:11451/announce
 http://34.94.213.23:2710/announce
+http://34.94.76.146:11450/announce
+http://34.94.76.146:2701/announce
 http://34.94.76.146:2710/announce
-http://34.94.76.146:443/announce
 http://34.94.76.146:6969/announce
+http://34.94.76.146:80/announce
+http://34.94.76.146:80/announce.php
 http://35.227.12.84/announce
 http://35.227.12.84:2710/announce
-http://35.227.59.57:2701/announce
+http://35.227.59.57:1337/announce
 http://35.227.59.57:2710/announce
+http://35.227.59.57:443/announce
+http://35.227.59.57:6960/announce
 http://35.227.59.57:6969/announce
 http://35.227.59.57:80/announce
 http://35.227.59.57:80/announce.php
@@ -160,7 +163,6 @@ http://45.154.253.6:80/announce
 http://45.154.253.7/announce
 http://45.154.253.8/announce
 http://45.154.253.9/announce
-http://45.154.96.35:6969/announce
 http://45.154.98.215:6969/announce
 http://45.63.111.135:2710/announce
 http://45.63.111.135:6961/announce
@@ -200,7 +202,6 @@ http://61.216.166.123:6969/announce
 http://61.222.178.227:6969/announce
 http://61.222.178.254:6969/announce
 http://62.182.85.138:666/announce
-http://62.60.157.92:6969/announce
 http://65.108.2.176:2710/announce
 http://65.130.205.148:9000/announce
 http://74.82.52.209:6969/announce
@@ -270,7 +271,6 @@ http://anidex.moe:6969/announce+
 http://anisource.spb.ru/announce
 http://announce.partis.si/announce
 http://announce.partis.si:80/announce
-http://asiatorrent.ddns.net:51413/announce
 http://atrack.pow7.com/announce
 http://atrack.pow7.com:80/announce
 http://baibako.tv/announce
@@ -459,7 +459,6 @@ http://prestige.minimafia.nl:443/announce
 http://private.minimafia.nl:443/announce
 http://proaudiotorrents.org/announce.php
 http://proaudiotorrents.org:80/announce.php
-http://public.tracker.vraphim.com:6969/announce
 http://region.nl1.privex.cc:6969/announce
 http://reisub.nsupdate.info:6969/announce
 http://retracker.gorcomnet.ru/announce
@@ -579,7 +578,6 @@ http://tracker.coppersurfer.site:2710/announce
 http://tracker.corpscorp.online/announce
 http://tracker.corpscorp.online:80/announce
 http://tracker.cutie.dating:80/announce
-http://tracker.darkness.services:6969/announce
 http://tracker.ddunlimited.net:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
@@ -1045,6 +1043,7 @@ udp://185.5.97.139:8089/announce
 udp://185.86.149.205:1337/announce
 udp://188.165.253.109:1337/announce
 udp://191.101.229.236:1337/announce
+udp://191.23.62.147:6969/announce
 udp://192.95.46.115:6969/announce
 udp://193.233.161.213:6969/announce
 udp://193.37.214.12:6969/announce
@@ -1057,9 +1056,10 @@ udp://1c.premierzal.ru:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://208.67.16.113:8000/announce
+udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.25:6969/announce
-udp://211.75.205.189:6969/announce
+udp://211.75.205.187:6969/announce
 udp://211.75.210.121:6969/announce
 udp://211.75.210.221:80/announce
 udp://211.75.29.254:6969/announce
@@ -1067,11 +1067,12 @@ udp://213.163.67.56:1337/announce
 udp://217.30.10.77:6969/announce
 udp://220.200.35.40:2710/announce
 udp://220.200.35.40:6969/announce
-udp://23.134.89.9:1337/announce
 udp://23.137.251.45:6969/announce
 udp://23.157.120.14:6969/announce
 udp://23.163.56.66:6969/announce
+udp://23.168.232.9:1337/announce
 udp://23.175.184.30:23333/announce
+udp://35.227.59.57:1337/announce
 udp://35.227.59.57:6969/announce
 udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
@@ -1382,7 +1383,6 @@ udp://tsundere.pw:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://uploads.gamecoast.net:6969/announce
-udp://utracker.ghostchu-services.top:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://v2.iperson.xyz:6969/announce
 udp://v74853.hosted-by-vdsina.com:6969/announce
