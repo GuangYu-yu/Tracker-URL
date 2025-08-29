@@ -268,6 +268,8 @@ http://anidex.moe:6969/announce+
 http://anisource.spb.ru/announce
 http://announce.partis.si/announce
 http://announce.partis.si:80/announce
+http://asiatorrent.ddns.net:51413/announce
+http://asiatorrent.giize.com:51413/announce
 http://atrack.pow7.com/announce
 http://atrack.pow7.com:80/announce
 http://baibako.tv/announce
@@ -786,7 +788,6 @@ https://4.tracker.eu.org:443/announce
 https://aaa.army:8866/announce
 https://abir0dev.github.io/announce
 https://abir0dev.github.io:443/announce
-https://api.ipv4online.uk:443/announce
 https://bittorrent.gongt.net/announce
 https://bittorrent.gongt.net:443/announce
 https://bt.080609.xyz/announce
@@ -811,7 +812,6 @@ https://inferno.demonoid.is/announce
 https://k.avc.cx/announce.php
 https://k.avc.cx:443/announce.php
 https://k3tracker.cc/announce/0b0b5b2bb71770aa0df56f80a4863f07
-https://mathkangaroo.jp:443/announce
 https://nyaa.tracker.wf:7777/announce
 https://open.kickasstracker.com/announce
 https://open.kickasstracker.com:443/announce
