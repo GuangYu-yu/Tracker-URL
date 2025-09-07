@@ -274,6 +274,8 @@ http://anidex.moe:6969/announce+
 http://anisource.spb.ru/announce
 http://announce.partis.si/announce
 http://announce.partis.si:80/announce
+http://asiatorrent.ddns.net:51413/announce
+http://asiatorrent.giize.com:51413/announce
 http://atrack.pow7.com/announce
 http://atrack.pow7.com:80/announce
 http://baibako.tv/announce
@@ -1228,6 +1230,7 @@ udp://ns1.monolithindustries.com:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://open.4ever.tk:6969/announce
 udp://open.demonii.com:1337/announce
+udp://open.demonii.si:80/announce
 udp://open.dstud.io:6969/announce
 udp://open.free-tracker.ga:6969/announce
 udp://open.publictracker.xyz:6969/announce
