@@ -409,6 +409,7 @@ http://mvgforumtracker.mvgroup.org/tracker.php/announce
 http://mvgforumtracker.mvgroup.org/tracker.php:80/announce
 http://mvgforumtracker.mvgroup.org:80/tracker.php/announce
 http://mvgroup.org:2710/announce
+http://ns3109441.mypdns.org:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open-v6.demonoid.ch:6969/announce
 http://open.8a.is:6969/announce
@@ -1178,6 +1179,7 @@ udp://freedom.1776.ga:6969/announce
 udp://glotorrents.pw:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://htz3.noho.st:6969/announce
+udp://ibksturm.synology.me:6969/announce
 udp://ipv4.rer.lol:2710/announce
 udp://ipv4.tracker.harry.lu/announce
 udp://ipv4.tracker.harry.lu:80/announce
@@ -1308,7 +1310,6 @@ udp://tracker.hifimarket.in:2710/announce
 udp://tracker.hifitechindia.com:6969/announce
 udp://tracker.ilibr.org:80/announce
 udp://tracker.internetwarriors.net:1337/announce
-udp://tracker.iperson.xyz:6969/announce
 udp://tracker.istole.it:80/announce
 udp://tracker.kicks-ass.net:80/announce
 udp://tracker.kuroy.me:5944/announce
