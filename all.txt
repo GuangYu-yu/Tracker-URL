@@ -1188,13 +1188,11 @@ udp://ipv4.tracker.harry.lu/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://ipv6.tracker.harry.lu/announce
-udp://isk.richardsw.club:6969/announce
 udp://jutone.com:6969/announce
 udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
 udp://laze.cc:6969/announce
 udp://leefafa.tk:6969/announce
-udp://leet-tracker.moe:1337/announce
 udp://ln.mtahost.co:6969/announce
 udp://mail.artixlinux.org:6969/announce
 udp://mail.segso.net:6969/announce
@@ -1215,6 +1213,7 @@ udp://oh.fuuuuuck.com:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://open.4ever.tk:6969/announce
 udp://open.demonii.com:1337/announce
+udp://open.demonii.si:80/announce
 udp://open.demonoid.ch:6969/announce
 udp://open.dstud.io:6969/announce
 udp://open.free-tracker.ga:6969/announce
@@ -1347,7 +1346,6 @@ udp://tracker.therarbg.to:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.tnl.one:8000/announce
 udp://tracker.torrent.eu.org:451/announce
-udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
 udp://tracker.tryhackx.org:6969/announce
