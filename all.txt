@@ -832,7 +832,6 @@ https://t.zerg.pw:443/announce
 https://t1.hloli.org/announce
 https://t1.hloli.org:443/announce
 https://t1.tokhmi.xyz/announce
-https://threads.canofsocks.com:443/announce
 https://tk.mabo.ltd/announce
 https://tk.mabo.ltd:443/announce
 https://torrent-tracker.hama3.net/announce
