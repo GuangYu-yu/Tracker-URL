@@ -534,7 +534,6 @@ http://tracker.anirena.com:80/b16a15d9a238d1f59178d3614b857290/announce
 http://tracker.baka-sub.cf/announce
 http://tracker.baka-sub.cf:80/announce
 http://tracker.baravik.org:6970/announce
-http://tracker.beeimg.com:6969/announce
 http://tracker.bittor.pw:1337/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bittorrent.nibblepoker.lu:49227/announce
