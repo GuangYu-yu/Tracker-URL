@@ -937,7 +937,6 @@ https://tracker.pmman.tech:443/announce
 https://tracker.pterclub.com/announce
 https://tracker.publictorrent.net/announce
 https://tracker.publictorrent.net:443/announce
-https://tracker.puvvadi.net:443/announce
 https://tracker.qingwa.pro:443/announce
 https://tracker.qingwapt.org:443/announce
 https://tracker.renfei.net/announce
