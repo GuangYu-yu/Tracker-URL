@@ -1187,7 +1187,6 @@ udp://new-line.net:6969/announce
 udp://node01.madtia.cc:42069/announce
 udp://node01.trackerstatus.live:42069/announce
 udp://node02.madtia.cc:42069/announce
-udp://node02.torrentonline.cc:42069/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
