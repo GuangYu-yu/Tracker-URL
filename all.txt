@@ -1,7 +1,6 @@
 http://00.mercax.com:443/announce
 http://00.xxtor.com:443/announce
 http://0123456789nonexistent.com/announce
-http://0123456789nonexistent.com:80/announce
 http://0d.kebhana.mx:443/announce
 http://104.143.10.186:8000/announce
 http://104.244.77.14:1337/announce
@@ -114,8 +113,8 @@ http://210.244.71.25:6969/announce
 http://210.244.71.26:6969/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
-http://211.75.205.188:6969/announce
-http://211.75.210.221:80/announce
+http://211.75.205.188:80/announce
+http://211.75.205.189:6969/announce
 http://211.75.29.254:6969/announce
 http://212.6.3.67/announce
 http://213.159.215.198:6970/announce
@@ -125,7 +124,6 @@ http://217.30.10.18:6969/announce
 http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
-http://34.66.57.33:80/announce.php
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
 http://34.94.213.23/announce
@@ -260,7 +258,6 @@ http://anidex.moe:6969/announce+
 http://anisource.spb.ru/announce
 http://announce.partis.si/announce
 http://announce.partis.si:80/announce
-http://asiatorrent.giize.com:51413/announce
 http://atrack.pow7.com/announce
 http://atrack.pow7.com:80/announce
 http://baibako.tv/announce
@@ -467,7 +464,6 @@ http://seeders-paradise.org/announce
 http://servandroidkino.ru/announce
 http://share.camoe.cn:8080/announce
 http://share.hkg-fansub.info/announce.php
-http://share.hkg-fansub.info:80/announce.php
 http://shogiroom.com:6969/announce
 http://shubt.net:2710/announce
 http://siambit.com/announce.php
@@ -498,7 +494,6 @@ http://torrent-tracker.ru/announce.php
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.gresille.org/announce
-http://torrent.hificode.in:6969/announce
 http://torrent.mp3quran.net/announce.php
 http://torrent.mp3quran.net:80/announce.php
 http://torrent.nwps.ws/announce
@@ -982,7 +977,9 @@ https://xtremex.herokuapp.com/announce
 https://xtremex.herokuapp.com:443/announce
 https://zer0day.000webhostapp.com/announce
 udp://10.rarbg.com/announce
+udp://101.99.91.160:6969/announce
 udp://103.122.21.50:6969/announce
+udp://103.251.166.126:6969/announce
 udp://104.131.98.232:6969/announce
 udp://104.143.10.186:8000/announce
 udp://107.150.14.110:6969/announce
@@ -1001,10 +998,9 @@ udp://135.125.106.92:6969/announce
 udp://135.125.236.64:6969/announce
 udp://144.126.245.19:6969/announce
 udp://144.91.88.22:6969/announce
-udp://147.45.77.75:6969/announce
-udp://148.135.112.164:6969/announce
 udp://148.251.53.72:6969/announce
 udp://151.80.120.114:2710/announce
+udp://154.40.43.165:6969/announce
 udp://156.234.201.18:80/announce
 udp://158.101.161.60:3131/announce
 udp://161.97.67.210:6969/announce
@@ -1021,7 +1017,6 @@ udp://178.33.73.26:2710/announce
 udp://182.176.139.129:6969/announce
 udp://185.102.219.163:6969/announce
 udp://185.121.168.96:1337/announce
-udp://185.121.168.96:6969/announce
 udp://185.181.60.155:80/announce
 udp://185.181.60.67:80/announce
 udp://185.216.179.62:25/announce
@@ -1046,16 +1041,16 @@ udp://200.170.110.114:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://208.67.16.113:8000/announce
-udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
-udp://211.75.205.188:6969/announce
+udp://211.75.205.189:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://213.163.67.56:1337/announce
 udp://217.30.10.77:6969/announce
 udp://23.137.251.45:6969/announce
+udp://23.157.120.14:6969/announce
 udp://23.175.184.30:23333/announce
 udp://34.66.57.33:1337/announce
 udp://34.66.57.33:80/announce
@@ -1109,6 +1104,7 @@ udp://89.36.216.8:6969/announce
 udp://9.rarbg.com:2710/announce
 udp://9.rarbg.me:2780/announce
 udp://9.rarbg.to:2730/announce
+udp://91.186.213.204:6969/announce
 udp://91.211.5.21:6969/announce
 udp://91.216.110.53:451/announce
 udp://91.218.230.81:6969/announce
@@ -1363,6 +1359,7 @@ udp://tracker4.piratux.com:6969/announce
 udp://tsundere.pw:6969/announce
 udp://uabits.today:6990/announce
 udp://udp.tracker.projectk.org:23333/announce
+udp://udp1.torrust-tracker-demo.com:6969/announce
 udp://uploads.gamecoast.net:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
