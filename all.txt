@@ -455,7 +455,6 @@ http://rotracker.ohys.net/announce
 http://rotracker.ohys.net:80/announce
 http://rstracker.ohys.net/announce
 http://rstracker.ohys.net:80/announce
-http://s1130638.ha016.t.mydomain.zone:80/announce
 http://s1130639.ha009.t.mydomain.zone:80/announce
 http://s1130642.ha014.t.mydomain.zone:80/announce
 http://secure.pow7.com/announce
