@@ -417,7 +417,6 @@ http://open.trackerlist.xyz/announce
 http://open.trackerlist.xyz:80/announce
 http://openbittorrent.com/announce
 http://openbittorrent.com:80/announce
-http://opentracker.91kf.top:16969/announce
 http://opentracker.acgnx.com:6869/announce
 http://opentracker.acgnx.com:6869/announce"
 http://opentracker.acgnx.se/announce
@@ -523,7 +522,6 @@ http://tracker.23794.top:6969/announce
 http://tracker.acgnx.se/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.aibt.xyz:900/announce
-http://tracker.alaskantf.com:6969/announce
 http://tracker.aletorrenty.pl:2710/announce
 http://tracker.ali213.net:8000/announce
 http://tracker.ali213.net:8080/announce
@@ -879,7 +877,6 @@ https://tracker.foreverpirates.co/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info/announce
 https://tracker.gbitt.info:443/announce
-https://tracker.gcrenwp.top:443/announce
 https://tracker.ghostchu-services.top:443/announce
 https://tracker.h3o2.me:443/announce
 https://tracker.imgoingto.icu/announce
@@ -974,7 +971,6 @@ https://voxhost.fr/announce
 https://voxhost.fr:443/announce
 https://w.wwwww.wtf/announce
 https://w.wwwww.wtf:443/announce
-https://wolf.parrot.run:443/announce
 https://wsad.run.place:443/announce
 https://www.peckservers.com:9443/announce
 https://www.wareztorrent.com/announce
@@ -1276,7 +1272,6 @@ udp://tracker.004430.xyz:1337/announce
 udp://tracker.0x.tf:6969/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.4.babico.name.tr:3131/announce
-udp://tracker.alaskantf.com:6969/announce
 udp://tracker.aletorrenty.pl:2710/announce
 udp://tracker.army:6969/announce
 udp://tracker.artixlinux.org:6969/announce
