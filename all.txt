@@ -193,7 +193,6 @@ http://61.222.178.254:6969/announce
 http://62.182.85.138:666/announce
 http://65.108.2.176:2710/announce
 http://65.130.205.148:9000/announce
-http://66691337.xyz:6969/announce
 http://74.82.52.209:6969/announce
 http://75.127.14.224:2710/announce
 http://79.137.198.96:6969/announce
