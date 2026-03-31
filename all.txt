@@ -497,7 +497,6 @@ http://torrent-tracker.ru/announce.php
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.gresille.org/announce
-http://torrent.hificode.in:6969/announce
 http://torrent.mp3quran.net/announce.php
 http://torrent.mp3quran.net:80/announce.php
 http://torrent.nwps.ws/announce
@@ -1195,7 +1194,6 @@ udp://new-line.net:6969/announce
 udp://node01.madtia.cc:42069/announce
 udp://node01.torrentonline.cc:42069/announce
 udp://node01.trackerstatus.live:42069/announce
-udp://node02.madtia.cc:42069/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
@@ -1302,7 +1300,6 @@ udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.grepler.com:6969/announce
-udp://tracker.huadongblower.xyz:8080/announce
 udp://tracker.ilibr.org:80/announce
 udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.iperson.xyz:6969/announce
