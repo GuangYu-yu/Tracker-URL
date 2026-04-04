@@ -455,6 +455,7 @@ http://rotracker.ohys.net:80/announce
 http://rstracker.ohys.net/announce
 http://rstracker.ohys.net:80/announce
 http://s1130639.ha009.t.mydomain.zone:80/announce
+http://s1130642.ha014.t.mydomain.zone:80/announce
 http://secure.pow7.com/announce
 http://secure.pow7.com:80/announce
 http://seeders-paradise.org/announce
@@ -535,7 +536,6 @@ http://tracker.bittorrent.nibblepoker.lu:49227/announce
 http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt-hash.com/announce
-http://tracker.bt-hash.com:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.btcake.com/announce
 http://tracker.btcake.com:80/announce
@@ -970,6 +970,7 @@ https://voxhost.fr/announce
 https://voxhost.fr:443/announce
 https://w.wwwww.wtf/announce
 https://w.wwwww.wtf:443/announce
+https://wsad.run.place:443/announce
 https://www.peckservers.com:9443/announce
 https://www.wareztorrent.com/announce
 https://www.wareztorrent.com:443/announce
@@ -1182,10 +1183,8 @@ udp://mserver.link:6969/announce
 udp://mts.tvbit.co:6969/announce
 udp://nagios.tks.sumy.ua:80/announce
 udp://new-line.net:6969/announce
-udp://node01.madtia.cc:42069/announce
 udp://node01.torrentonline.cc:42069/announce
 udp://node01.trackerstatus.live:42069/announce
-udp://node02.madtia.cc:42069/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
@@ -1289,6 +1288,7 @@ udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.grepler.com:6969/announce
+udp://tracker.huadongblower.xyz:8080/announce
 udp://tracker.ilibr.org:80/announce
 udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.iperson.xyz:6969/announce
