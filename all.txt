@@ -522,7 +522,6 @@ http://tr.highstar.shop:80/announce
 http://tr.kxmp.cf/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw/announce
-http://tr.nyacat.pw:80/announce
 http://tracker.23794.top:6969/announce
 http://tracker.acgnx.se/announce
 http://tracker.acgnx.se:80/announce
@@ -786,6 +785,7 @@ https://cernet-tracker.appspot.com/announce
 https://cernet-tracker.appspot.com:443/announce
 https://chihaya-heroku.120181311.xyz/announce
 https://chihaya-heroku.120181311.xyz:443/announce
+https://colibri.parrot.run:443/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 https://docker-tracker-production.up.railway.app/announce
@@ -975,6 +975,7 @@ https://voxhost.fr/announce
 https://voxhost.fr:443/announce
 https://w.wwwww.wtf/announce
 https://w.wwwww.wtf:443/announce
+https://wsad.run.place:443/announce
 https://www.peckservers.com:9443/announce
 https://www.wareztorrent.com/announce
 https://www.wareztorrent.com:443/announce
@@ -1345,7 +1346,6 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.itzmx.com:8080/announce
-udp://tracker1.myporn.club:9337/announce
 udp://tracker2.dler.com:80/announce
 udp://tracker2.dler.org:80/announce
 udp://tracker2.indowebster.com:6969/announce
