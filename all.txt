@@ -466,7 +466,6 @@ http://shubt.net:2710/announce
 http://siambit.com/announce.php
 http://siambit.com:80/announce.php
 http://siambit.org/announce.php
-http://siwserver.duckdns.org:9900/announce
 http://smurfsoft.com:6969/announce
 http://sukebei.tracker.wf:8888/announce
 http://t.acg.rip:6699/announce
