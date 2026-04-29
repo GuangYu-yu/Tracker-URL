@@ -186,7 +186,6 @@ http://61.216.166.123:6969/announce
 http://61.222.178.227:6969/announce
 http://61.222.178.254:6969/announce
 http://62.182.85.138:666/announce
-http://64.226.122.118:6969/announce
 http://65.108.2.176:2710/announce
 http://65.130.205.148:9000/announce
 http://74.82.52.209:6969/announce
@@ -255,7 +254,6 @@ http://anidex.moe:6969/announce+
 http://anisource.spb.ru/announce
 http://announce.partis.si/announce
 http://announce.partis.si:80/announce
-http://asiatorrent.giize.com:51413/announce
 http://atrack.pow7.com/announce
 http://atrack.pow7.com:80/announce
 http://baibako.tv/announce
@@ -456,7 +454,6 @@ http://rstracker.ohys.net:80/announce
 http://secure.pow7.com/announce
 http://secure.pow7.com:80/announce
 http://seeders-paradise.org/announce
-http://seeders-paradise.org:80/announce
 http://servandroidkino.ru/announce
 http://share.camoe.cn:8080/announce
 http://share.hkg-fansub.info/announce.php
@@ -584,7 +581,6 @@ http://tracker.gbitt.info/announce
 http://tracker.gbitt.info:80/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gdp.pw:900/announce
-http://tracker.ghostchu-services.top:80/announce
 http://tracker.gigatorrents.ws:2710/announce
 http://tracker.grepler.com:6969/announce
 http://tracker.h0me.cc:8880/announce
@@ -1242,6 +1238,7 @@ udp://thetracker.org:80/announce
 udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://tk1.trackerservers.com:8080/announce
+udp://torrent.bowed.net:8081/announce
 udp://torrent.gresille.org:80/announce
 udp://torrentclub.online:54123/announce
 udp://torrentclub.space:6969/announce
