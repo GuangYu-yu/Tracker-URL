@@ -884,6 +884,7 @@ https://tracker.kuroy.me/announce
 https://tracker.kuroy.me:443/announce
 https://tracker.lelux.fi/announce
 https://tracker.lelux.fi:443/announce
+https://tracker.lenition.de:443/announce
 https://tracker.lilithraws.cf/announce
 https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org/announce
