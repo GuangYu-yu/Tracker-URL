@@ -357,7 +357,6 @@ http://houniao.ddns.net:8888/announce
 http://hzzwly.gq:6969/announce
 http://i.bandito.org/announce.php
 http://incine.ru:6969/announce
-http://ipv4.rer.lol:2710/announce
 http://ipv4.tracker.harry.lu/announce
 http://ipv4.tracker.harry.lu:80/announce
 http://ipv4announce.sktorrent.eu:6969/announce
@@ -529,7 +528,6 @@ http://tracker.bittorrent.nibblepoker.lu:49227/announce
 http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt-hash.com/announce
-http://tracker.bt-hash.com:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.btcake.com/announce
 http://tracker.btcake.com:80/announce
@@ -922,7 +920,6 @@ https://tracker.qingwapt.org:443/announce
 https://tracker.renfei.net/announce
 https://tracker.renfei.net:443/announce
 https://tracker.sakurato.art:23334/announce
-https://tracker.samcze.pl:443/announce
 https://tracker.shittyurl.org/announce
 https://tracker.shittyurl.org:443/announce
 https://tracker.skynetcloud.site:8443/announce
@@ -1239,6 +1236,7 @@ udp://thetracker.org:80/announce
 udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://tk1.trackerservers.com:8080/announce
+udp://torrent.bowed.net:8081/announce
 udp://torrent.gresille.org:80/announce
 udp://torrentclub.online:54123/announce
 udp://torrentclub.space:6969/announce
@@ -1284,6 +1282,7 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.grepler.com:6969/announce
 udp://tracker.hismz.cn:6969/announce
+udp://tracker.huadongblower.xyz:8080/announce
 udp://tracker.ilibr.org:80/announce
 udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.iperson.xyz:6969/announce
@@ -1318,7 +1317,6 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrentclaw.com:1337/announce
-udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackerfix.com:80/announce
 udp://tracker.trackerfix.com:82/announce
 udp://tracker.tryhackx.org:6969/announce
@@ -1339,7 +1337,6 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 udp://tracker4.piratux.com:6969/announce
-udp://trackthis.cyber.pz.it:1337/announce
 udp://tsundere.pw:6969/announce
 udp://u.peer-exchange.download:6969/announce
 udp://uabits.today:6990/announce
