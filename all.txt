@@ -361,7 +361,6 @@ http://incine.ru:6969/announce
 http://ipv4.tracker.harry.lu/announce
 http://ipv4.tracker.harry.lu:80/announce
 http://ipv4announce.sktorrent.eu:6969/announce
-http://ipv6.rer.lol:6969/announce
 http://irrenhaus.dyndns.dk/announce.php
 http://irrenhaus.dyndns.dk:80/announce.php
 http://jp.moeweb.pw:6969/announce
@@ -584,7 +583,6 @@ http://tracker.hiyj.cn/announce
 http://tracker.internetwarriors.net:1337/announce
 http://tracker.ipv6tracker.org/announce
 http://tracker.ipv6tracker.org:80/announce
-http://tracker.ipv6tracker.ru:80/announce
 http://tracker.iro.moe/announce
 http://tracker.istole.it/announce
 http://tracker.kali.org:6969/announce
@@ -805,7 +803,6 @@ https://tk.mabo.ltd/announce
 https://tk.mabo.ltd:443/announce
 https://torrent-tracker.hama3.net/announce
 https://torrent-tracker.hama3.net:443/announce
-https://torrent.tracker.durukanbal.com:443/announce
 https://torrent.ubuntu.com/announce
 https://torrent.ubuntu.com:443/announce
 https://torrents.linuxmint.com/announce.php
@@ -1120,7 +1117,6 @@ udp://black-bird.ynh.fr:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.letpo.com:6969/announce
 udp://bt.oiyo.tk:6969/announce
-udp://bt.rer.lol:6969/announce
 udp://bt.xxx-tracker.com:2710/announce
 udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
@@ -1347,7 +1343,6 @@ udp://v2.iperson.xyz:6969/announce
 udp://v6.vito-tracker.space:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://vito-tracker.duckdns.org:6969/announce
-udp://vito-tracker.space:2095/announce
 udp://vito-tracker.space:6969/announce
 udp://wepzone.net:6969/announce
 udp://whybother.torrentonline.cc:42069/announce
