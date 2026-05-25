@@ -788,6 +788,7 @@ https://nyaa.tracker.wf:7777/announce
 https://open.ftorrent.com:443/announce
 https://open.kickasstracker.com/announce
 https://open.kickasstracker.com:443/announce
+https://opentracker.8880085.xyz:443/announce
 https://opentracker.cc/announce
 https://opentracker.cc:443/announce
 https://opentracker.i2p.rocks/announce
@@ -1326,7 +1327,6 @@ udp://tracker.sylphix.com:6969/announce
 udp://tracker.t-1.org:6969/announce
 udp://tracker.tcp.exchange:6969/announce
 udp://tracker.theoks.net:6969/announce
-udp://tracker.therarbg.to:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrentclaw.com:1337/announce
