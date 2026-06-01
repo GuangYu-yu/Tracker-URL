@@ -1,0 +1,47 @@
+name: 下载并处理 Tracker 列表
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'  # 每2小时运行一次
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  download-and-process:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 检出代码
+      uses: actions/checkout@v3
+
+    - name: 设置 Python 环境
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: 安装依赖项
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests aiohttp beautifulsoup4
+
+    - name: 运行下载和处理脚本
+      run: python download_trackers.py
+
+    - name: 检查是否有更改
+      run: |
+        git add .
+        if git diff --cached --quiet; then
+          echo "没有需要提交的更改"
+          exit 0
+        fi
+
+    - name: 提交并推送更改
+      if: success()
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "于 $(date '+%Y/%m/%d %H:%M:%S') 下载并处理了文件" || echo "没有需要提交的更改，跳过提交。"
+        git pull --rebase
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+        git push || echo "没有需要推送的更改，跳过推送。"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
