@@ -331,7 +331,6 @@ http://data-bg.net/announce.php
 http://data-bg.net:80/announce.php
 http://datascene.net/announce.php
 http://datascene.net:80/announce.php
-http://de7c0e7a567e.sn.mynetname.net:59002/announce
 http://debuz.com:6969/announce
 http://dht.dhtclub.com:666/announce
 http://dn42.smrsh.net:6969/announce
@@ -1143,6 +1142,7 @@ udp://bubu.mapfactor.com:6969/announce
 udp://buddyfly.top:6969/announce
 udp://camera.lei001.com:6969/announce
 udp://carr.codes:6969/announce
+udp://cerf.cs.umd.edu:8000/announce
 udp://chouchou.top:8080/announce
 udp://coeus.torrentonline.cc:42069/announce
 udp://concen.org:6969/announce
@@ -1296,6 +1296,7 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.grepler.com:6969/announce
 udp://tracker.hismz.cn:6969/announce
+udp://tracker.huadongblower.xyz:8080/announce
 udp://tracker.ilibr.org:80/announce
 udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.istole.it:80/announce
