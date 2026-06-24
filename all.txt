@@ -2,6 +2,7 @@ http://00.mercax.com:443/announce
 http://00.xxtor.com:443/announce
 http://004430.xyz:80/announce
 http://0123456789nonexistent.com/announce
+http://0123456789nonexistent.com:80/announce
 http://0d.kebhana.mx:443/announce
 http://104.143.10.186:8000/announce
 http://104.244.77.14:1337/announce
@@ -52,7 +53,6 @@ http://163.172.209.40:80/announce
 http://163.172.29.130/announce
 http://163.172.29.130:80/announce
 http://167.235.245.209/announce
-http://167.253.78.20:8080/announce
 http://171.104.110.193:6969/announce
 http://171.104.110.21:6969/announce
 http://171.104.110.88:6969/announce
@@ -90,7 +90,7 @@ http://187.57.14.62:6969/announce
 http://188.165.253.109:1337/announce
 http://189.0.196.51:6969/announce
 http://189.110.233.96:6969/announce
-http://189.79.13.198:6969/announce
+http://191.23.62.139:6969/announce
 http://192.3.165.191:6969/announce
 http://192.9.228.30:6699/announce
 http://193.37.214.12:6969/announce
@@ -111,9 +111,8 @@ http://210.244.71.25:6969/announce
 http://210.244.71.26:6969/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
-http://211.75.205.187:6969/announce
 http://211.75.205.187:80/announce
-http://211.75.210.221:6969/announce
+http://211.75.205.188:6969/announce
 http://211.75.29.254:6969/announce
 http://212.6.3.67/announce
 http://213.159.215.198:6970/announce
@@ -123,7 +122,10 @@ http://217.30.10.18:6969/announce
 http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
-http://34.66.57.33:80/announce
+http://34.66.57.33:11450/announce
+http://34.66.57.33:1337/announce
+http://34.66.57.33:443/announce
+http://34.66.57.33:6969/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
 http://34.94.213.23/announce
@@ -366,6 +368,7 @@ http://ipv4announce.sktorrent.eu:6969/announce
 http://irrenhaus.dyndns.dk/announce.php
 http://irrenhaus.dyndns.dk:80/announce.php
 http://jp.moeweb.pw:6969/announce
+http://jvavav.com:80/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kinorun.com/announce.php
 http://kinorun.com:80/announce.php
@@ -455,9 +458,11 @@ http://rstracker.ohys.net:80/announce
 http://secure.pow7.com/announce
 http://secure.pow7.com:80/announce
 http://seeders-paradise.org/announce
+http://seeders-paradise.org:80/announce
 http://servandroidkino.ru/announce
 http://share.camoe.cn:8080/announce
 http://share.hkg-fansub.info/announce.php
+http://share.hkg-fansub.info:80/announce.php
 http://shogiroom.com:6969/announce
 http://shubt.net:2710/announce
 http://siambit.com/announce.php
@@ -1010,6 +1015,7 @@ udp://178.170.48.154:1337/announce
 udp://178.33.73.26:2710/announce
 udp://182.176.139.129:6969/announce
 udp://185.102.219.163:6969/announce
+udp://185.121.168.96:1337/announce
 udp://185.146.233.150:6969/announce
 udp://185.181.60.155:80/announce
 udp://185.181.60.67:80/announce
@@ -1020,8 +1026,8 @@ udp://185.44.82.25:1337/announce
 udp://185.5.97.139:8089/announce
 udp://185.86.149.205:1337/announce
 udp://188.165.253.109:1337/announce
-udp://189.79.13.198:6969/announce
 udp://191.101.229.236:1337/announce
+udp://191.23.62.139:6969/announce
 udp://192.3.130.53:1337/announce
 udp://192.95.46.115:6969/announce
 udp://193.187.90.12:6969/announce
@@ -1039,12 +1045,13 @@ udp://208.67.16.113:8000/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.25:6969/announce
 udp://211.75.205.187:80/announce
-udp://211.75.210.221:6969/announce
+udp://211.75.205.188:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://213.163.67.56:1337/announce
 udp://217.30.10.77:6969/announce
 udp://23.137.251.45:6969/announce
+udp://23.157.120.14:6969/announce
 udp://34.66.57.33:1337/announce
 udp://34.66.57.33:80/announce
 udp://37.120.182.83:15480/announce
