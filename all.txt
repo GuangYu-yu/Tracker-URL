@@ -1348,9 +1348,6 @@ udp://yahor.ftp.sh:6969/announce
 udp://yahor.of.by:6969/announce
 udp://yann5.hexanyn.fr:6969/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
-udp://yuptracker-sa.gaijinent.com:27022/announce
-udp://yuptracker-us.gaijinent.com:27022/announce
-udp://yuptracker.gaijinent.com:27022/announce
 udp://zecircle.xyz:6969/announce
 udp://zer0day.ch:1337/announce
 udp://zer0day.to:1337/announce
