@@ -1347,7 +1347,6 @@ udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://v2.iperson.xyz:6969/announce
 udp://v6.vito-tracker.space:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
-udp://vito-tracker.duckdns.org:6969/announce
 udp://wepzone.net:6969/announce
 udp://whybother.torrentonline.cc:42069/announce
 udp://www.peckservers.com:9000/announce
