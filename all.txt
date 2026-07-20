@@ -1141,7 +1141,6 @@ udp://cutscloud.duckdns.org:6969/announce
 udp://devops.gay:6969/announce
 udp://dht.bt251.com:6969/announce
 udp://download.nerocloud.me:6969/announce
-udp://ds32244.seedhost.eu:6969/announce
 udp://eddie4.nl:6969/announce
 udp://elementsbrowser.com:6969/announce
 udp://epider.me:6969/announce
