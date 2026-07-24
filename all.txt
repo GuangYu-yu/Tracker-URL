@@ -472,7 +472,6 @@ http://siambit.com:80/announce.php
 http://siambit.org/announce.php
 http://smurfsoft.com:6969/announce
 http://sukebei.tracker.wf:8888/announce
-http://supertracker.cc.cd:80/announce
 http://t.acg.rip:6699/announce
 http://t.jaekr.sh:6969/announce
 http://t.nyaatracker.com/announce
