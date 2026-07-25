@@ -258,6 +258,7 @@ http://anisource.spb.ru/announce
 http://announce.partis.si/announce
 http://announce.partis.si:80/announce
 http://announce.sktorrent.eu:6969/announce
+http://asiatorrent.giize.com:51413/announce
 http://atrack.pow7.com/announce
 http://atrack.pow7.com:80/announce
 http://baibako.tv/announce
@@ -493,7 +494,6 @@ http://torrent-tracker.ru/announce.php
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.gresille.org/announce
-http://torrent.hificode.in:6969/announce
 http://torrent.mp3quran.net/announce.php
 http://torrent.mp3quran.net:80/announce.php
 http://torrent.nwps.ws/announce
@@ -822,7 +822,6 @@ https://tk.mabo.ltd/announce
 https://tk.mabo.ltd:443/announce
 https://torrent-tracker.hama3.net/announce
 https://torrent-tracker.hama3.net:443/announce
-https://torrent.tracker.durukanbal.com:443/announce
 https://torrent.ubuntu.com/announce
 https://torrent.ubuntu.com:443/announce
 https://torrents.linuxmint.com/announce.php
@@ -908,7 +907,6 @@ https://tracker.loligirl.cn/announce
 https://tracker.loligirl.cn:443/announce
 https://tracker.m-team.cc/announce.php
 https://tracker.m-team.cc:443/announce.php
-https://tracker.manager.itislove.cz:443/announce
 https://tracker.manager.v6.navy:443/announce
 https://tracker.mlsub.net/announce
 https://tracker.mlsub.net:443/announce
@@ -1321,7 +1319,6 @@ udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.tcp.exchange:6969/announce
 udp://tracker.teambelgium.net:6969/announce
-udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.trackerfix.com:80/announce
