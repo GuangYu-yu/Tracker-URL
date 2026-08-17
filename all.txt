@@ -1,8 +1,6 @@
 http://00.mercax.com:443/announce
 http://00.xxtor.com:443/announce
-http://004430.xyz:80/announce
 http://0123456789nonexistent.com/announce
-http://0123456789nonexistent.com:80/announce
 http://0d.kebhana.mx:443/announce
 http://104.143.10.186:8000/announce
 http://104.244.77.14:1337/announce
@@ -253,7 +251,6 @@ http://99.192.12.191:6969/announce
 http://[2605:6400:30:fad6::dead:c0d3]:1337/announce
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 http://aaa.army:8866/announce
-http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://all4nothin.net/announce.php
 http://all4nothin.net:80/announce.php
 http://alltorrents.net/bt/announce.php
@@ -378,7 +375,6 @@ http://ipv4announce.sktorrent.eu:6969/announce
 http://irrenhaus.dyndns.dk/announce.php
 http://irrenhaus.dyndns.dk:80/announce.php
 http://jp.moeweb.pw:6969/announce
-http://jvavav.com:80/announce
 http://kamikazee.duckdns.org:7777/announce
 http://kinorun.com/announce.php
 http://kinorun.com:80/announce.php
@@ -461,7 +457,6 @@ http://retracker.ohys.net:80/announce
 http://retracker.spark-rostov.ru/announce
 http://retracker.spark-rostov.ru:80/announce
 http://retracker01-msk-virt.corbina.net/announce
-http://retracker01-msk-virt.corbina.net:80/announce
 http://rfc5746.mywaifu.best:6969/announce
 http://rotracker.ohys.net/announce
 http://rotracker.ohys.net:80/announce
@@ -470,11 +465,9 @@ http://rstracker.ohys.net:80/announce
 http://secure.pow7.com/announce
 http://secure.pow7.com:80/announce
 http://seeders-paradise.org/announce
-http://seeders-paradise.org:80/announce
 http://servandroidkino.ru/announce
 http://share.camoe.cn:8080/announce
 http://share.hkg-fansub.info/announce.php
-http://share.hkg-fansub.info:80/announce.php
 http://shogiroom.com:6969/announce
 http://shubt.net:2710/announce
 http://siambit.com/announce.php
@@ -504,7 +497,6 @@ http://torrent-tracker.ru/announce.php
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.gresille.org/announce
-http://torrent.hificode.in:6969/announce
 http://torrent.mp3quran.net/announce.php
 http://torrent.mp3quran.net:80/announce.php
 http://torrent.nwps.ws/announce
@@ -527,7 +519,6 @@ http://tr.cili001.com:8070/announce
 http://tr.kxmp.cf/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw/announce
-http://tr.nyacat.pw:80/announce
 http://tracker.acgnx.se/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.aibt.xyz:900/announce
@@ -548,7 +539,6 @@ http://tracker.bittorrent.nibblepoker.lu:49227/announce
 http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt-hash.com/announce
-http://tracker.bt-hash.com:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.btcake.com/announce
 http://tracker.btcake.com:80/announce
@@ -621,7 +611,6 @@ http://tracker.moxing.party:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.nartlof.com.br:6969/announce
 http://tracker.netmap.top:6969/announce
-http://tracker.nexusstream.eu:6969/announce
 http://tracker.noobsubs.net/announce
 http://tracker.noobsubs.net:80/announce
 http://tracker.novaopcj.eu.org:6969/announce
@@ -640,7 +629,6 @@ http://tracker.pimp4003.net/announce
 http://tracker.plx.im:6969/announce
 http://tracker.pow7.com/announce
 http://tracker.pow7.com:80/announce
-http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.publictorrent.net/announce
 http://tracker.publictorrent.net:80/announce
 http://tracker.pussytorrents.org:3000/announce
@@ -692,7 +680,6 @@ http://tracker.yoshi210.com:6969/announce
 http://tracker.yuelili.com/announce
 http://tracker.yuelili.com:80/announce
 http://tracker.zerobytes.xyz:1337/announce
-http://tracker.zhuqiy.com:80/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker1.bt.moack.co.kr/announce
 http://tracker1.bt.moack.co.kr:80/announce
@@ -1209,7 +1196,6 @@ udp://open.stealth.si:80/announce
 udp://open.tracker.cl:1337/announce
 udp://open.tracker.ink:6969/announce
 udp://open.u-p.pw:6969/announce
-udp://opentor.org:2710/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
 udp://opentrackr.org:1337/announce
@@ -1373,7 +1359,6 @@ wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 wss://tracker.btorrent.xyz:443/announce
 wss://tracker.dnlab.net:443/announce
 wss://tracker.files.fm:7073/announce
-wss://tracker.magnetoo.io/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443
 wss://tracker.openwebtorrent.com:443/announce
