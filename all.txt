@@ -112,8 +112,8 @@ http://210.244.71.25:6969/announce
 http://210.244.71.26:6969/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
-http://211.75.205.187:80/announce
 http://211.75.205.188:6969/announce
+http://211.75.205.188:80/announce
 http://211.75.210.221:6969/announce
 http://211.75.29.254:6969/announce
 http://212.6.3.67/announce
@@ -515,7 +515,6 @@ http://tr.cili001.com:8070/announce
 http://tr.kxmp.cf/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw/announce
-http://tracker.23794.top:6969/announce
 http://tracker.acgnx.se/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.aibt.xyz:900/announce
@@ -978,6 +977,7 @@ udp://104.131.98.232:6969/announce
 udp://104.143.10.186:8000/announce
 udp://107.150.14.110:6969/announce
 udp://107.175.221.194:6969/announce
+udp://107.189.2.131:1337/announce
 udp://109.121.134.121:1337/announce
 udp://109.201.134.183:80/announce
 udp://11.rarbg.com:80/announce
@@ -985,7 +985,6 @@ udp://114.55.113.60:6969/announce
 udp://119.28.71.45:8080/announce
 udp://128.199.70.66:5944/announce
 udp://135.125.106.92:6969/announce
-udp://135.125.236.64:6969/announce
 udp://144.91.88.22:6969/announce
 udp://148.251.53.72:6969/announce
 udp://149.106.106.25:443/announce
@@ -996,7 +995,6 @@ udp://152.53.194.103:1984/announce
 udp://152.53.194.103:54123/announce
 udp://156.234.201.18:80/announce
 udp://158.101.161.60:3131/announce
-udp://159.146.99.45:6969/announce
 udp://161.97.67.210:6969/announce
 udp://163.172.29.130:80/announce
 udp://164.152.110.70:6969/announce
@@ -1036,7 +1034,7 @@ udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://208.67.16.113:8000/announce
 udp://209.126.11.233:6969/announce
-udp://211.75.205.187:80/announce
+udp://211.75.205.188:80/announce
 udp://211.75.210.221:6969/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
