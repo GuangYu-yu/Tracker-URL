@@ -112,7 +112,6 @@ http://210.244.71.25:6969/announce
 http://210.244.71.26:6969/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
-http://211.75.205.187:6969/announce
 http://211.75.205.188:6969/announce
 http://211.75.205.188:80/announce
 http://211.75.29.254:6969/announce
@@ -124,6 +123,7 @@ http://217.30.10.18:6969/announce
 http://217.30.10.77:6969/announce
 http://220.130.15.27:6969/announce
 http://220.130.15.30:6969/announce
+http://34.66.57.33:1337/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
 http://34.94.213.23/announce
@@ -531,6 +531,7 @@ http://tracker.bittorrent.nibblepoker.lu:49227/announce
 http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt-hash.com/announce
+http://tracker.bt-hash.com:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.btcake.com/announce
 http://tracker.btcake.com:80/announce
@@ -978,20 +979,19 @@ udp://114.55.113.60:6969/announce
 udp://119.28.71.45:8080/announce
 udp://128.199.70.66:5944/announce
 udp://135.125.106.92:6969/announce
-udp://135.125.198.235:1984/announce
 udp://144.91.88.22:6969/announce
 udp://148.251.53.72:6969/announce
 udp://149.106.106.25:443/announce
 udp://15.235.207.99:8081/announce
 udp://151.242.104.187:80/announce
 udp://151.80.120.114:2710/announce
-udp://152.243.213.247:6969/announce
 udp://152.53.194.103:1984/announce
 udp://152.53.194.103:54123/announce
 udp://156.234.201.18:80/announce
 udp://158.101.161.60:3131/announce
 udp://161.97.67.210:6969/announce
 udp://163.172.29.130:80/announce
+udp://164.152.110.70:6969/announce
 udp://167.99.185.219:6969/announce
 udp://168.235.67.63:6969/announce
 udp://172.105.235.127:6969/announce
@@ -1002,7 +1002,6 @@ udp://178.33.73.26:2710/announce
 udp://180.131.145.175:6969/announce
 udp://182.176.139.129:6969/announce
 udp://185.102.219.163:6969/announce
-udp://185.121.168.96:1337/announce
 udp://185.121.168.96:6969/announce
 udp://185.181.60.155:80/announce
 udp://185.181.60.67:80/announce
@@ -1026,8 +1025,9 @@ udp://1c.premierzal.ru:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://208.67.16.113:8000/announce
+udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
-udp://209.141.59.25:6969/announce
+udp://209.141.59.16:6969/announce
 udp://211.75.205.188:6969/announce
 udp://211.75.205.188:80/announce
 udp://211.75.29.254:6969/announce
@@ -1036,7 +1036,6 @@ udp://213.163.67.56:1337/announce
 udp://217.30.10.77:6969/announce
 udp://23.137.251.45:6969/announce
 udp://23.153.248.128:6969/announce
-udp://23.157.120.14:6969/announce
 udp://31.56.179.159:6969/announce
 udp://34.66.57.33:1337/announce
 udp://34.66.57.33:80/announce
@@ -1079,7 +1078,6 @@ udp://83.102.180.21:80/announce
 udp://85.17.19.180:80/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
-udp://89.234.156.205:451/announce
 udp://89.234.156.205:80/announce
 udp://89.36.216.8:6969/announce
 udp://9.rarbg.com:2710/announce
@@ -1313,6 +1311,7 @@ udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.tcp.exchange:6969/announce
 udp://tracker.teambelgium.net:6969/announce
+udp://tracker.theoks.net:6969/announce
 udp://tracker.therarbg.to:1337/announce
 udp://tracker.therarbg.to:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
