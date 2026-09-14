@@ -25,7 +25,6 @@ http://125.227.35.196:6969/announce
 http://128.199.70.66:5944/announce
 http://129.146.193.240:6699/announce
 http://13.115.115.32:6969/announce
-http://132.243.161.144:6969/announce
 http://1337.abcvg.info/announce
 http://1337.abcvg.info/announce+108
 http://1337.abcvg.info:80/announce
