@@ -508,7 +508,6 @@ http://tr.kxmp.cf/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw/announce
 http://tr.nyacat.pw:80/announce
-http://tracker.23794.top:6969/announce
 http://tracker.acgnx.se/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.aibt.xyz:900/announce
@@ -1152,6 +1151,7 @@ udp://ipv6.tracker.harry.lu/announce
 udp://jutone.com:6969/announce
 udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
+udp://kolankoalastree.newtrackon.co.nz:1337/announce
 udp://kolanopentracker.airdns.org:3392/announce
 udp://laze.cc:6969/announce
 udp://leefafa.tk:6969/announce
@@ -1232,7 +1232,6 @@ udp://torrent.tracker.durukanbal.com:6969/announce
 udp://torrentclub.space:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://tr.bangumi.moe:6969/announce
-udp://tr.btube3.com:2010/announce
 udp://tr.cili001.com:8070/announce
 udp://tr3.ysagin.top:2715/announce
 udp://tr4ck3r.duckdns.org:6969/announce
