@@ -1157,7 +1157,6 @@ udp://jutone.com:6969/announce
 udp://keke.re:6969/announce
 udp://kokodayo.site:6969/announce
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
-udp://kolanopentracker.airdns.org:3392/announce
 udp://laze.cc:6969/announce
 udp://leefafa.tk:6969/announce
 udp://ln.mtahost.co:6969/announce
