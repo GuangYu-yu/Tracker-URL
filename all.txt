@@ -932,7 +932,6 @@ https://tracker.tvgc.win/announce
 https://tracker.vectahosting.eu/announce
 https://tracker.vectahosting.eu:443/announce
 https://tracker.yemekyedim.com:443/announce
-https://tracker.zhuqiy.com:443/announce
 https://tracker1.520.jp/announce
 https://tracker1.520.jp:443/announce
 https://tracker1.ctix.cn/announce
@@ -1108,7 +1107,6 @@ udp://admin.videoenpoche.info:6969/announce
 udp://aegir.sexy:6969/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
 udp://app.icon256.com:8000/announce
-udp://archive.torrentonline.cc:42069/announce
 udp://astrr.ru:6969/announce
 udp://bananas.space:6969/announce
 udp://bedro.cloud:6969/announce
@@ -1233,7 +1231,6 @@ udp://torrent.tracker.durukanbal.com:6969/announce
 udp://torrentclub.space:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://tr.bangumi.moe:6969/announce
-udp://tr.btube3.com:2010/announce
 udp://tr.cili001.com:8070/announce
 udp://tr3.ysagin.top:2715/announce
 udp://tr4ck3r.duckdns.org:6969/announce
