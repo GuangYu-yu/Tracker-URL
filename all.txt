@@ -840,7 +840,6 @@ https://tracker.bt-hash.com/announce
 https://tracker.bt-hash.com:443/announce
 https://tracker.bt4g.com/announce
 https://tracker.bt4g.com:443/announce
-https://tracker.bug38.com:443/announce
 https://tracker.cangku.moe/announce
 https://tracker.cangku.moe:443/announce
 https://tracker.cloudit.top/announce
@@ -1262,7 +1261,6 @@ udp://tracker.farted.net:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.filetracker.pl:8089/announce
 udp://tracker.flashtorrents.org:6969/announce
-udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.grepler.com:6969/announce
@@ -1329,7 +1327,6 @@ udp://v2.iperson.xyz:6969/announce
 udp://v6.vito-tracker.space:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://wepzone.net:6969/announce
-udp://whybother.torrentonline.cc:42069/announce
 udp://www.peckservers.com:9000/announce
 udp://yahor.ftp.sh:6969/announce
 udp://yahor.of.by:6969/announce
