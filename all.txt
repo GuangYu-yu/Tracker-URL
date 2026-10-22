@@ -478,6 +478,7 @@ http://t1.pow7.com/announce
 http://t1.pow7.com:80/announce
 http://t2.pow7.com/announce
 http://t2.pow7.com:80/announce
+http://taciturn-shadow.spb.ru:6969/announce
 http://thetracker.org/announce
 http://thetracker.org:80/announce
 http://thitgaluoc.dynu.net:6969/announce
@@ -1266,7 +1267,6 @@ udp://tracker.farted.net:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.filetracker.pl:8089/announce
 udp://tracker.flashtorrents.org:6969/announce
-udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.grepler.com:6969/announce
 udp://tracker.ilibr.org:6969/announce
