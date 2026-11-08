@@ -774,7 +774,6 @@ https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 https://docker-tracker-production.up.railway.app/announce
 https://evening-badlands-6215.herokuapp.com/announce
-https://gargoyleperch.de:443/announce
 https://grifon.info:80/announce
 https://hcbt.pp.ua/announce
 https://ht.therarbg.to:443/announce
@@ -836,6 +835,7 @@ https://tr.torland.ga/announce
 https://tr.torland.ga:443/announce
 https://tracker.4.babico.name.tr/announce
 https://tracker.7471.top:443/announce
+https://tracker.augrains.com:443/announce
 https://tracker.baka.ink/announce
 https://tracker.baka.ink:443/announce
 https://tracker.bangumi.zip/announce
