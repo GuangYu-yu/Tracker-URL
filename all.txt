@@ -70,7 +70,6 @@ http://171.104.226.25:6969/announce
 http://171.104.226.31:6969/announce
 http://171.104.226.87:6969/announce
 http://173.254.204.71:1096/announce
-http://177.112.215.133:6969/announce
 http://178.175.143.27/announce
 http://178.33.73.26:2710/announce
 http://179.100.24.134:6969/announce
@@ -112,9 +111,8 @@ http://210.244.71.25:6969/announce
 http://210.244.71.26:6969/announce
 http://211.20.122.47:6969/announce
 http://211.22.29.93/announce
-http://211.75.205.187:6969/announce
-http://211.75.205.187:80/announce
-http://211.75.205.188:6969/announce
+http://211.75.210.221:6969/announce
+http://211.75.210.221:80/announce
 http://211.75.29.254:6969/announce
 http://212.6.3.67/announce
 http://213.159.215.198:6970/announce
@@ -969,6 +967,7 @@ udp://104.131.98.232:6969/announce
 udp://104.143.10.186:8000/announce
 udp://107.150.14.110:6969/announce
 udp://107.175.221.194:6969/announce
+udp://107.189.2.131:1337/announce
 udp://109.121.134.121:1337/announce
 udp://109.201.134.183:80/announce
 udp://11.rarbg.com:80/announce
@@ -977,7 +976,6 @@ udp://119.28.71.45:8080/announce
 udp://128.199.70.66:5944/announce
 udp://135.125.106.92:6969/announce
 udp://135.125.198.235:1984/announce
-udp://135.125.236.64:6969/announce
 udp://138.186.10.167:1337/announce
 udp://143.20.154.228:42069/announce
 udp://143.20.154.229:42069/announce
@@ -998,7 +996,6 @@ udp://168.235.67.63:6969/announce
 udp://172.105.235.127:6969/announce
 udp://173.249.201.201:6969/announce
 udp://176.31.250.174:6969/announce
-udp://177.112.215.133:6969/announce
 udp://178.170.48.154:1337/announce
 udp://178.239.19.29:80/announce
 udp://178.33.73.26:2710/announce
@@ -1027,17 +1024,15 @@ udp://1c.premierzal.ru:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://208.67.16.113:8000/announce
-udp://208.83.20.20:6969/announce
 udp://209.126.11.233:6969/announce
 udp://209.141.59.25:6969/announce
-udp://211.75.205.187:80/announce
-udp://211.75.205.188:6969/announce
+udp://211.75.210.221:6969/announce
+udp://211.75.210.221:80/announce
 udp://211.75.29.254:6969/announce
 udp://212.42.38.197:6969/announce
 udp://213.163.67.56:1337/announce
 udp://217.30.10.77:6969/announce
 udp://23.137.251.45:6969/announce
-udp://23.157.120.14:6969/announce
 udp://23.94.174.203:1337/announce
 udp://31.56.179.159:6969/announce
 udp://31.59.141.120:6969/announce
@@ -1047,7 +1042,6 @@ udp://37.187.111.136:6969/announce
 udp://37.187.95.112:6969/announce
 udp://37.19.5.155:2710/announce
 udp://37.59.48.81:6969/announce
-udp://38.180.157.12:2715/announce
 udp://43.250.54.126:6969/announce
 udp://45.137.199.107:6969/announce
 udp://45.38.170.167:6969/announce
@@ -1081,6 +1075,7 @@ udp://74.119.149.136:6969/announce
 udp://74.82.52.209:6969/announce
 udp://82.65.115.10:6969/announce
 udp://83.102.180.21:80/announce
+udp://85.121.148.217:2710/announce
 udp://85.17.19.180:80/announce
 udp://88.80.28.7:6969/announce
 udp://88.99.2.212:6969/announce
@@ -1259,6 +1254,7 @@ udp://tracker.auctor.tv:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
+udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.btsync.gq:233/announce
 udp://tracker.ccc.de:80/announce
@@ -1280,7 +1276,6 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.filetracker.pl:8089/announce
 udp://tracker.flashtorrents.org:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
-udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.grepler.com:6969/announce
 udp://tracker.ilibr.org:6969/announce
@@ -1316,6 +1311,7 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.sylphix.com:6969/announce
 udp://tracker.tcp.exchange:6969/announce
+udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrents.observer:80/announce
@@ -1343,7 +1339,6 @@ udp://tsundere.pw:6969/announce
 udp://uploads.gamecoast.net:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://v2.iperson.xyz:6969/announce
-udp://v6.vito-tracker.space:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://wepzone.net:6969/announce
 udp://whybother.torrentonline.cc:42069/announce
